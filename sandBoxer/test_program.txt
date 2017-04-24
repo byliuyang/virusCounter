@@ -1,0 +1,3 @@
+> ./shift2user -u 1001 -p 1550
+> ./getloginuid -p 1550
+> dmesg

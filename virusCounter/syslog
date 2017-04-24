@@ -1,0 +1,2217 @@
+[11642.026845] User 1000 is closing file: 10
+[11642.026855] User 1000 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3
+[11642.026860] User 1000 read from file descriptor 10
+[11642.026881] User 1000 is closing file: 10
+[11642.026892] User 1000 is opening file: /lib/i386-linux-gnu/libpam_misc.so.0
+[11642.026897] User 1000 read from file descriptor 10
+[11642.026919] User 1000 is closing file: 10
+[11642.026932] User 1000 is opening file: /lib/i386-linux-gnu/librt.so.1
+[11642.026937] User 1000 read from file descriptor 10
+[11642.026958] User 1000 is closing file: 10
+[11642.026975] User 1000 is opening file: /lib/i386-linux-gnu/libpthread.so.0
+[11642.026980] User 1000 read from file descriptor 10
+[11642.027005] User 1000 is closing file: 10
+[11642.027340] User 1000 read from file descriptor 9
+[11642.027347] User 1000 is closing file: 9
+[11642.027364] User 1000 read from file descriptor 8
+[11642.027367] User 1000 is closing file: 8
+[11642.027392] User 1000 is opening file: /var/lib/sudo/harry/1
+[11642.027397] User 1000 read from file descriptor 8
+[11642.027413] User 1000 is closing file: 8
+[11642.027419] User 1000 is opening file: /proc/stat
+[11642.027432] User 1000 read from file descriptor 8
+[11642.027506] User 1000 read from file descriptor 8
+[11642.027529] User 1000 read from file descriptor 8
+[11642.027532] User 1000 is closing file: 8
+[11642.027541] User 1000 is opening file: /var/lib/sudo/harry/1
+[11642.027613] User 1000 is closing file: 8
+[11642.027768] User 1000 is closing file: 5
+[11642.027799] User 1000 is closing file: 3
+[11642.027809] User 1000 is closing file: 4
+[11642.027827] User 1000 is opening file: /etc/passwd
+[11642.027838] User 1000 is opening file: /etc/group
+[11642.027854] User 1000 is opening file: /etc/passwd
+[11642.027875] User 1000 is closing file: 5
+[11642.027885] User 1000 is closing file: 3
+[11642.027891] User 1000 is closing file: 4
+[11642.027908] User 1000 is opening file: /etc/passwd
+[11642.027923] User 1000 is closing file: 3
+[11642.047798] Unloaded interceptor!
+[13599.141744] Unloaded interceptor!
+[13599.234708] Interceptor: Found syscall table at address: 0xC166A140
+[13599.234715] Loaded interceptor!
+[13601.395473] Unloaded interceptor!
+[13601.486399] Interceptor: Found syscall table at address: 0xC166A140
+[13601.486405] Loaded interceptor!
+[13613.048539] Find loginuid 1001 for process [1550]
+[13632.113087] Successfully changed process[1550]'s loginuid to [1001]
+[13726.178212] Unloaded interceptor!
+[13726.271412] Interceptor: Found syscall table at address: 0xC166A140
+[13726.271421] Loaded interceptor!
+[13728.453131] Unloaded interceptor!
+[13728.548148] Interceptor: Found syscall table at address: 0xC166A140
+[13728.548154] Loaded interceptor!
+[13732.160841] Successfully changed process[1550]'s loginuid to [1001]
+[13736.772133] Find loginuid 1001 for process [1550]
+[13916.494237] Unloaded interceptor!
+[13916.585881] Interceptor: Found syscall table at address: 0xC166A140
+[13916.585887] Loaded interceptor!
+[13918.697435] Unloaded interceptor!
+[13918.791006] Interceptor: Found syscall table at address: 0xC166A140
+[13918.791014] Loaded interceptor!
+[13922.448774] Successfully changed process[1550]'s loginuid to [1001]
+[13925.480932] Find loginuid 1001 for process [1550]
+[14357.160717] Interceptor: Found syscall table at address: 0xC166A140
+[14357.160724] Loaded interceptor!
+[14357.166595] User 1000 read from file descriptor 11
+[14357.166697] User 1000 read from file descriptor 11
+[14357.168546] User 1000 read from file descriptor 0
+[14357.168609] User 1000 read from file descriptor 11
+[14362.633454] User 1000 read from file descriptor 3
+[14362.633661] User 1000 read from file descriptor 0
+[14362.633717] User 1000 read from file descriptor 11
+[14362.857445] User 1000 read from file descriptor 3
+[14362.857686] User 1000 read from file descriptor 0
+[14362.857746] User 1000 read from file descriptor 11
+[14363.385095] User 1000 read from file descriptor 3
+[14363.385316] User 1000 read from file descriptor 0
+[14363.385373] User 1000 read from file descriptor 11
+[14363.545823] User 1000 read from file descriptor 3
+[14363.546010] User 1000 read from file descriptor 0
+[14363.546072] User 1000 read from file descriptor 11
+[14364.120855] User 1000 read from file descriptor 3
+[14364.121070] User 1000 read from file descriptor 0
+[14364.121127] User 1000 read from file descriptor 11
+[14364.384938] User 1000 read from file descriptor 3
+[14364.385146] User 1000 read from file descriptor 0
+[14364.385203] User 1000 read from file descriptor 11
+[14364.944978] User 1000 read from file descriptor 3
+[14364.945187] User 1000 read from file descriptor 0
+[14364.945245] User 1000 read from file descriptor 11
+[14365.009425] User 1000 read from file descriptor 3
+[14365.009640] User 1000 read from file descriptor 0
+[14365.009693] User 1000 read from file descriptor 11
+[14365.185418] User 1000 read from file descriptor 3
+[14365.185632] User 1000 read from file descriptor 0
+[14365.185689] User 1000 read from file descriptor 11
+[14365.280977] User 1000 read from file descriptor 3
+[14365.281208] User 1000 read from file descriptor 0
+[14365.281256] User 1000 read from file descriptor 11
+[14365.585464] User 1000 read from file descriptor 3
+[14365.594361] User 1000 is closing file: 3
+[14365.594429] User 1000 read from file descriptor 0
+[14365.594458] User 1000 read from file descriptor 11
+[14365.835559] User 1000 read from file descriptor 3
+[14365.846489] User 1000 is closing file: 3
+[14365.846668] User 1000 read from file descriptor 11
+[14365.851758] User 1000 read from file descriptor 0
+[14365.851761] User 1000 read from file descriptor 11
+[14366.985538] User 1000 read from file descriptor 3
+[14366.985753] User 1000 read from file descriptor 0
+[14366.985810] User 1000 read from file descriptor 11
+[14367.569552] User 1000 read from file descriptor 3
+[14367.575134] User 1000 is closing file: 3
+[14367.575223] User 1000 read from file descriptor 0
+[14367.575238] User 1000 read from file descriptor 11
+[14369.761265] User 1000 read from file descriptor 3
+[14369.761494] User 1000 read from file descriptor 11
+[14369.761872] User 1000 is closing file: 4
+[14369.761876] User 1000 is closing file: 3
+[14369.761881] User 1000 is closing file: 4
+[14369.761894] User 1000 read from file descriptor 3
+[14369.761902] User 1000 is closing file: 3
+[14369.769735] User 1000 is opening file: /etc/ld.so.cache
+[14369.769749] User 1000 is closing file: 3
+[14369.769771] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14369.769778] User 1000 read from file descriptor 3
+[14369.769815] User 1000 is closing file: 3
+[14369.770348] User 1000 read from file descriptor 11
+[14369.771331] User 1000 read from file descriptor 0
+[14369.771406] User 1000 read from file descriptor 11
+[14372.841143] User 1000 read from file descriptor 3
+[14372.841341] User 1000 read from file descriptor 0
+[14372.841394] User 1000 read from file descriptor 11
+[14372.961413] User 1000 read from file descriptor 3
+[14372.961616] User 1000 read from file descriptor 0
+[14372.961680] User 1000 read from file descriptor 11
+[14373.065889] User 1000 read from file descriptor 3
+[14373.066083] User 1000 read from file descriptor 0
+[14373.066144] User 1000 read from file descriptor 11
+[14373.256912] User 1000 read from file descriptor 3
+[14373.257122] User 1000 read from file descriptor 0
+[14373.257180] User 1000 read from file descriptor 11
+[14373.401520] User 1000 read from file descriptor 3
+[14373.401740] User 1000 read from file descriptor 0
+[14373.401796] User 1000 read from file descriptor 11
+[14373.529845] User 1000 read from file descriptor 3
+[14373.530454] User 1000 read from file descriptor 11
+[14373.530847] User 1000 is closing file: 3
+[14373.530853] User 1000 is closing file: 4
+[14373.530887] User 1000 is closing file: 4
+[14373.530903] User 1000 read from file descriptor 3
+[14373.530912] User 1000 is closing file: 3
+[14373.531456] User 1000 is opening file: /etc/ld.so.cache
+[14373.531468] User 1000 is closing file: 3
+[14373.531493] User 1000 is opening file: /lib/i386-linux-gnu/libtinfo.so.5
+[14373.531500] User 1000 read from file descriptor 3
+[14373.531531] User 1000 is closing file: 3
+[14373.531548] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14373.531554] User 1000 read from file descriptor 3
+[14373.531584] User 1000 is closing file: 3
+[14373.532277] User 1000 is opening file: /lib/terminfo/x/xterm-256color
+[14373.532311] User 1000 read from file descriptor 3
+[14373.532324] User 1000 read from file descriptor 3
+[14373.532482] User 1000 is closing file: 3
+[14373.532659] User 1000 read from file descriptor 11
+[14373.533231] User 1000 read from file descriptor 0
+[14373.533284] User 1000 read from file descriptor 11
+[14373.993536] User 1000 read from file descriptor 3
+[14373.993678] User 1000 read from file descriptor 0
+[14373.993685] User 1000 read from file descriptor 0
+[14373.993756] User 1000 read from file descriptor 0
+[14373.993814] User 1000 read from file descriptor 11
+[14374.177218] User 1000 read from file descriptor 3
+[14374.177361] User 1000 read from file descriptor 0
+[14374.177369] User 1000 read from file descriptor 0
+[14374.177780] User 1000 read from file descriptor 0
+[14374.177851] User 1000 read from file descriptor 11
+[14374.385330] User 1000 read from file descriptor 3
+[14374.385473] User 1000 read from file descriptor 0
+[14374.385480] User 1000 read from file descriptor 0
+[14374.385894] User 1000 read from file descriptor 0
+[14374.385953] User 1000 read from file descriptor 11
+[14374.937287] User 1000 read from file descriptor 3
+[14374.937431] User 1000 read from file descriptor 0
+[14374.937438] User 1000 read from file descriptor 0
+[14374.937869] User 1000 read from file descriptor 0
+[14374.937939] User 1000 read from file descriptor 11
+[14375.392820] User 1000 read from file descriptor 3
+[14375.393008] User 1000 read from file descriptor 0
+[14375.393014] User 1000 read from file descriptor 0
+[14375.393426] User 1000 read from file descriptor 0
+[14375.393499] User 1000 read from file descriptor 11
+[14412.905642] User 1000 read from file descriptor 3
+[14412.905860] User 1000 read from file descriptor 0
+[14412.905917] User 1000 read from file descriptor 11
+[14413.155822] User 1000 read from file descriptor 3
+[14413.156087] User 1000 read from file descriptor 0
+[14413.156143] User 1000 read from file descriptor 11
+[14413.190038] User 1000 read from file descriptor 3
+[14413.190257] User 1000 read from file descriptor 0
+[14413.190324] User 1000 read from file descriptor 11
+[14413.225297] User 1000 read from file descriptor 3
+[14413.225519] User 1000 read from file descriptor 0
+[14413.225576] User 1000 read from file descriptor 11
+[14413.259274] User 1000 read from file descriptor 3
+[14413.259489] User 1000 read from file descriptor 0
+[14413.259531] User 1000 read from file descriptor 11
+[14413.292994] User 1000 read from file descriptor 3
+[14413.293212] User 1000 read from file descriptor 0
+[14413.293269] User 1000 read from file descriptor 11
+[14413.327563] User 1000 read from file descriptor 3
+[14413.327781] User 1000 read from file descriptor 0
+[14413.327838] User 1000 read from file descriptor 11
+[14413.361409] User 1000 read from file descriptor 3
+[14413.361614] User 1000 read from file descriptor 0
+[14413.361676] User 1000 read from file descriptor 11
+[14413.396143] User 1000 read from file descriptor 3
+[14413.396356] User 1000 read from file descriptor 0
+[14413.396413] User 1000 read from file descriptor 11
+[14413.430554] User 1000 read from file descriptor 3
+[14413.430772] User 1000 read from file descriptor 0
+[14413.430830] User 1000 read from file descriptor 11
+[14413.464679] User 1000 read from file descriptor 3
+[14413.464898] User 1000 read from file descriptor 0
+[14413.464955] User 1000 read from file descriptor 11
+[14413.498262] User 1000 read from file descriptor 3
+[14413.498497] User 1000 read from file descriptor 0
+[14413.498554] User 1000 read from file descriptor 11
+[14413.532632] User 1000 read from file descriptor 3
+[14413.532853] User 1000 read from file descriptor 0
+[14413.532911] User 1000 read from file descriptor 11
+[14413.566816] User 1000 read from file descriptor 3
+[14413.567024] User 1000 read from file descriptor 0
+[14413.567086] User 1000 read from file descriptor 11
+[14413.601335] User 1000 read from file descriptor 3
+[14413.601613] User 1000 read from file descriptor 0
+[14413.601661] User 1000 read from file descriptor 11
+[14413.634828] User 1000 read from file descriptor 3
+[14413.635031] User 1000 read from file descriptor 0
+[14413.635058] User 1000 read from file descriptor 11
+[14413.668894] User 1000 read from file descriptor 3
+[14413.669090] User 1000 read from file descriptor 0
+[14413.669241] User 1000 read from file descriptor 11
+[14413.702774] User 1000 read from file descriptor 3
+[14413.702961] User 1000 read from file descriptor 0
+[14413.703008] User 1000 read from file descriptor 11
+[14413.735999] User 1000 read from file descriptor 3
+[14413.736979] User 1000 read from file descriptor 0
+[14413.737016] User 1000 read from file descriptor 11
+[14413.770746] User 1000 read from file descriptor 3
+[14413.770929] User 1000 read from file descriptor 0
+[14413.770975] User 1000 read from file descriptor 11
+[14413.804983] User 1000 read from file descriptor 3
+[14413.805240] User 1000 read from file descriptor 0
+[14413.805268] User 1000 read from file descriptor 11
+[14414.017375] User 1000 read from file descriptor 3
+[14414.017579] User 1000 read from file descriptor 0
+[14414.017636] User 1000 read from file descriptor 11
+[14414.121466] User 1000 read from file descriptor 3
+[14414.121668] User 1000 read from file descriptor 0
+[14414.121724] User 1000 read from file descriptor 11
+[14414.225414] User 1000 read from file descriptor 3
+[14414.225666] User 1000 read from file descriptor 0
+[14414.225723] User 1000 read from file descriptor 11
+[14414.353324] User 1000 read from file descriptor 3
+[14414.353524] User 1000 read from file descriptor 0
+[14414.353581] User 1000 read from file descriptor 11
+[14414.593387] User 1000 read from file descriptor 3
+[14414.593596] User 1000 read from file descriptor 0
+[14414.593652] User 1000 read from file descriptor 11
+[14414.844356] User 1000 read from file descriptor 3
+[14414.844569] User 1000 read from file descriptor 0
+[14414.844626] User 1000 read from file descriptor 11
+[14414.878740] User 1000 read from file descriptor 3
+[14414.878956] User 1000 read from file descriptor 0
+[14414.879013] User 1000 read from file descriptor 11
+[14414.912907] User 1000 read from file descriptor 3
+[14414.913110] User 1000 read from file descriptor 0
+[14414.913166] User 1000 read from file descriptor 11
+[14414.946295] User 1000 read from file descriptor 3
+[14414.946476] User 1000 read from file descriptor 0
+[14414.946521] User 1000 read from file descriptor 11
+[14414.980407] User 1000 read from file descriptor 3
+[14414.980594] User 1000 read from file descriptor 0
+[14414.980658] User 1000 read from file descriptor 11
+[14415.015055] User 1000 read from file descriptor 3
+[14415.015240] User 1000 read from file descriptor 0
+[14415.015285] User 1000 read from file descriptor 11
+[14415.048087] User 1000 read from file descriptor 3
+[14415.048273] User 1000 read from file descriptor 0
+[14415.048318] User 1000 read from file descriptor 11
+[14415.083130] User 1000 read from file descriptor 3
+[14415.083314] User 1000 read from file descriptor 0
+[14415.083358] User 1000 read from file descriptor 11
+[14415.105561] User 1000 read from file descriptor 3
+[14415.105757] User 1000 read from file descriptor 0
+[14415.105817] User 1000 read from file descriptor 11
+[14415.297742] User 1000 read from file descriptor 3
+[14415.297949] User 1000 read from file descriptor 0
+[14415.298005] User 1000 read from file descriptor 11
+[14415.392709] User 1000 read from file descriptor 3
+[14415.392912] User 1000 read from file descriptor 0
+[14415.392967] User 1000 read from file descriptor 11
+[14415.505009] User 1000 read from file descriptor 3
+[14415.505217] User 1000 read from file descriptor 0
+[14415.505273] User 1000 read from file descriptor 11
+[14415.553085] User 1000 read from file descriptor 3
+[14415.553284] User 1000 read from file descriptor 0
+[14415.553336] User 1000 read from file descriptor 11
+[14415.753291] User 1000 read from file descriptor 3
+[14415.753502] User 1000 read from file descriptor 0
+[14415.753557] User 1000 read from file descriptor 11
+[14415.801208] User 1000 read from file descriptor 3
+[14415.801421] User 1000 read from file descriptor 0
+[14415.801476] User 1000 read from file descriptor 11
+[14415.929764] User 1000 read from file descriptor 3
+[14415.929973] User 1000 read from file descriptor 0
+[14415.930025] User 1000 read from file descriptor 11
+[14415.986421] User 1000 read from file descriptor 3
+[14415.986635] User 1000 read from file descriptor 0
+[14415.986691] User 1000 read from file descriptor 11
+[14416.080839] User 1000 read from file descriptor 3
+[14416.081054] User 1000 read from file descriptor 0
+[14416.081094] User 1000 read from file descriptor 11
+[14416.249229] User 1000 read from file descriptor 3
+[14416.249752] User 1000 read from file descriptor 0
+[14416.249793] User 1000 read from file descriptor 11
+[14416.377934] User 1000 read from file descriptor 3
+[14416.378152] User 1000 read from file descriptor 0
+[14416.378207] User 1000 read from file descriptor 11
+[14416.449281] User 1000 read from file descriptor 3
+[14416.449494] User 1000 read from file descriptor 0
+[14416.449549] User 1000 read from file descriptor 11
+[14416.633384] User 1000 read from file descriptor 3
+[14416.633582] User 1000 read from file descriptor 0
+[14416.633633] User 1000 read from file descriptor 11
+[14416.737339] User 1000 read from file descriptor 3
+[14416.737545] User 1000 read from file descriptor 0
+[14416.737601] User 1000 read from file descriptor 11
+[14417.025136] User 1000 read from file descriptor 3
+[14417.025364] User 1000 read from file descriptor 11
+[14417.025850] User 1000 is closing file: 3
+[14417.025858] User 1000 is closing file: 4
+[14417.025872] User 1000 is closing file: 4
+[14417.025885] User 1000 read from file descriptor 3
+[14417.025892] User 1000 is closing file: 3
+[14417.026465] User 1000 is opening file: /etc/ld.so.cache
+[14417.026478] User 1000 is closing file: 3
+[14417.026504] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+[14417.026510] User 1000 read from file descriptor 3
+[14417.026548] User 1000 is closing file: 3
+[14417.026560] User 1000 is opening file: /lib/i386-linux-gnu/libutil.so.1
+[14417.026566] User 1000 read from file descriptor 3
+[14417.026710] User 1000 is closing file: 3
+[14417.026736] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+[14417.026746] User 1000 read from file descriptor 3
+[14417.026781] User 1000 is closing file: 3
+[14417.026793] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14417.026799] User 1000 read from file descriptor 3
+[14417.026829] User 1000 is closing file: 3
+[14417.026846] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+[14417.026852] User 1000 read from file descriptor 3
+[14417.026877] User 1000 is closing file: 3
+[14417.027483] User 1000 is opening file: /proc/filesystems
+[14417.027527] User 1000 read from file descriptor 3
+[14417.027559] User 1000 read from file descriptor 3
+[14417.027571] User 1000 is closing file: 3
+[14417.027639] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14417.027664] User 1000 is closing file: 3
+[14417.027699] User 1000 is opening file: /etc/localtime
+[14417.027712] User 1000 read from file descriptor 3
+[14417.027729] User 1000 read from file descriptor 3
+[14417.027736] User 1000 is closing file: 3
+[14417.027803] User 1000 is opening file: /dev/tty
+[14417.027815] User 1000 is closing file: 3
+[14417.027864] User 1000 is closing file: 3
+[14417.027877] User 1000 is closing file: 3
+[14417.027886] User 1000 is opening file: /etc/nsswitch.conf
+[14417.027897] User 1000 read from file descriptor 3
+[14417.027929] User 1000 read from file descriptor 3
+[14417.027933] User 1000 is closing file: 3
+[14417.027948] User 1000 is opening file: /etc/ld.so.cache
+[14417.027956] User 1000 is closing file: 3
+[14417.027979] User 1000 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2
+[14417.027986] User 1000 read from file descriptor 3
+[14417.028003] User 1000 is closing file: 3
+[14417.028145] User 1000 is opening file: /lib/i386-linux-gnu/libnsl.so.1
+[14417.028159] User 1000 read from file descriptor 3
+[14417.028205] User 1000 is closing file: 3
+[14417.028262] User 1000 is opening file: /etc/ld.so.cache
+[14417.028271] User 1000 is closing file: 3
+[14417.028292] User 1000 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2
+[14417.028299] User 1000 read from file descriptor 3
+[14417.028327] User 1000 is closing file: 3
+[14417.028339] User 1000 is opening file: /lib/i386-linux-gnu/libnss_files.so.2
+[14417.028348] User 1000 read from file descriptor 3
+[14417.028374] User 1000 is closing file: 3
+[14417.028425] User 1000 is opening file: /etc/passwd
+[14417.028481] User 1000 is closing file: 3
+[14417.028523] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14417.028532] User 1000 read from file descriptor 3
+[14417.028536] User 1000 is closing file: 3
+[14417.028568] User 1000 is opening file: /proc/26290/stat
+[14417.028585] User 1000 read from file descriptor 3
+[14417.028602] User 1000 is closing file: 3
+[14417.028704] User 1000 is closing file: 3
+[14417.028755] User 1000 is opening file: /usr/lib/sudo/sudoers.so
+[14417.028761] User 1000 read from file descriptor 3
+[14417.028789] User 1000 is closing file: 3
+[14417.028800] User 1000 is opening file: /etc/ld.so.cache
+[14417.028806] User 1000 is closing file: 3
+[14417.028827] User 1000 is opening file: /lib/i386-linux-gnu/libpam.so.0
+[14417.028834] User 1000 read from file descriptor 3
+[14417.028857] User 1000 is closing file: 3
+[14417.028873] User 1000 is opening file: /lib/i386-linux-gnu/libaudit.so.1
+[14417.028879] User 1000 read from file descriptor 3
+[14417.028904] User 1000 is closing file: 3
+[14417.029020] User 1000 is opening file: /etc/passwd
+[14417.029034] User 1000 is opening file: /etc/default/nss
+[14417.029045] User 1000 read from file descriptor 4
+[14417.029101] User 1000 read from file descriptor 4
+[14417.029106] User 1000 is closing file: 4
+[14417.029126] User 1000 is opening file: /etc/group
+[14417.029165] User 1000 is opening file: /usr/share/locale/locale.alias
+[14417.029176] User 1000 read from file descriptor 5
+[14417.029246] User 1000 read from file descriptor 5
+[14417.029249] User 1000 is closing file: 5
+[14417.029304] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14417.029309] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14417.029313] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo
+[14417.029316] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14417.029319] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/sudoers.mo
+[14417.029322] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo
+[14417.029326] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14417.029330] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14417.029333] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo
+[14417.029337] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14417.029341] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/sudoers.mo
+[14417.029344] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo
+[14417.029393] User 1000 is opening file: /etc/passwd
+[14417.029393] User 1000 is closing file: 5
+[14417.029651] User 1000 is closing file: 5
+[14417.029659] User 1000 is closing file: 5
+[14417.029665] User 1000 is opening file: /etc/group
+[14417.029690] User 1000 is closing file: 5
+[14417.029698] User 1000 is opening file: /etc/group
+[14417.029709] User 1000 is closing file: 5
+[14417.029714] User 1000 is opening file: /etc/group
+[14417.029726] User 1000 is closing file: 5
+[14417.029731] User 1000 is opening file: /etc/group
+[14417.029743] User 1000 is closing file: 5
+[14417.029748] User 1000 is opening file: /etc/group
+[14417.029760] User 1000 is closing file: 5
+[14417.029765] User 1000 is opening file: /etc/group
+[14417.029778] User 1000 is closing file: 5
+[14417.029786] User 1000 is opening file: /etc/group
+[14417.029802] User 1000 is closing file: 5
+[14417.029806] User 1000 is opening file: /etc/group
+[14417.029824] User 1000 is closing file: 5
+[14417.029828] User 1000 is opening file: /etc/group
+[14417.029845] User 1000 is closing file: 5
+[14417.029861] User 1000 is opening file: /etc/nsswitch.conf
+[14417.029870] User 1000 read from file descriptor 5
+[14417.029894] User 1000 read from file descriptor 5
+[14417.029897] User 1000 is closing file: 5
+[14417.030204] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14417.030212] User 1000 read from file descriptor 8
+[14417.030215] User 1000 is closing file: 8
+[14417.030234] User 1000 is opening file: /etc/group
+[14417.030261] User 1000 is closing file: 8
+[14417.030270] User 1000 is opening file: /etc/group
+[14417.030280] User 1000 is closing file: 8
+[14417.030361] User 1000 is opening file: /etc/pam.d/sudo
+[14417.030371] User 1000 read from file descriptor 8
+[14417.030390] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_env.so
+[14417.030396] User 1000 read from file descriptor 9
+[14417.030418] User 1000 is closing file: 9
+[14417.030455] User 1000 is opening file: /etc/pam.d/common-auth
+[14417.030463] User 1000 read from file descriptor 9
+[14417.030479] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_unix.so
+[14417.030484] User 1000 read from file descriptor 10
+[14417.030511] User 1000 is closing file: 10
+[14417.030518] User 1000 is opening file: /etc/ld.so.cache
+[14417.030524] User 1000 is closing file: 10
+[14417.030541] User 1000 is opening file: /lib/i386-linux-gnu/libcrypt.so.1
+[14417.030548] User 1000 read from file descriptor 10
+[14417.030571] User 1000 is closing file: 10
+[14417.030648] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_deny.so
+[14417.030654] User 1000 read from file descriptor 10
+[14417.030674] User 1000 is closing file: 10
+[14417.030691] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_permit.so
+[14417.030696] User 1000 read from file descriptor 10
+[14417.030715] User 1000 is closing file: 10
+[14417.030738] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_cap.so
+[14417.030744] User 1000 read from file descriptor 10
+[14417.030763] User 1000 is closing file: 10
+[14417.030770] User 1000 is opening file: /etc/ld.so.cache
+[14417.030776] User 1000 is closing file: 10
+[14417.030793] User 1000 is opening file: /lib/i386-linux-gnu/libcap.so.2
+[14417.030798] User 1000 read from file descriptor 10
+[14417.030819] User 1000 is closing file: 10
+[14417.030882] User 1000 read from file descriptor 9
+[14417.030886] User 1000 is closing file: 9
+[14417.030897] User 1000 is opening file: /etc/pam.d/common-account
+[14417.030905] User 1000 read from file descriptor 9
+[14417.030944] User 1000 read from file descriptor 9
+[14417.030947] User 1000 is closing file: 9
+[14417.030957] User 1000 is opening file: /etc/pam.d/common-session-noninteractive
+[14417.030964] User 1000 read from file descriptor 9
+[14417.030986] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_umask.so
+[14417.030991] User 1000 read from file descriptor 10
+[14417.031011] User 1000 is closing file: 10
+[14417.031061] User 1000 read from file descriptor 9
+[14417.031065] User 1000 is closing file: 9
+[14417.031077] User 1000 read from file descriptor 8
+[14417.031080] User 1000 is closing file: 8
+[14417.031086] User 1000 is opening file: /etc/pam.d/other
+[14417.031094] User 1000 read from file descriptor 8
+[14417.031105] User 1000 is opening file: /etc/pam.d/common-auth
+[14417.031112] User 1000 read from file descriptor 9
+[14417.031152] User 1000 read from file descriptor 9
+[14417.031155] User 1000 is closing file: 9
+[14417.031164] User 1000 is opening file: /etc/pam.d/common-account
+[14417.031170] User 1000 read from file descriptor 9
+[14417.031207] User 1000 read from file descriptor 9
+[14417.031210] User 1000 is closing file: 9
+[14417.031218] User 1000 is opening file: /etc/pam.d/common-password
+[14417.031225] User 1000 read from file descriptor 9
+[14417.031244] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so
+[14417.031249] User 1000 read from file descriptor 10
+[14417.031269] User 1000 is closing file: 10
+[14417.031336] User 1000 read from file descriptor 9
+[14417.031339] User 1000 is closing file: 9
+[14417.031349] User 1000 is opening file: /etc/pam.d/common-session
+[14417.031356] User 1000 read from file descriptor 9
+[14417.031383] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_systemd.so
+[14417.031388] User 1000 read from file descriptor 10
+[14417.031409] User 1000 is closing file: 10
+[14417.031416] User 1000 is opening file: /etc/ld.so.cache
+[14417.031422] User 1000 is closing file: 10
+[14417.031439] User 1000 is opening file: /lib/i386-linux-gnu/libcgmanager.so.0
+[14417.031444] User 1000 read from file descriptor 10
+[14417.031466] User 1000 is closing file: 10
+[14417.031483] User 1000 is opening file: /lib/i386-linux-gnu/libnih.so.1
+[14417.031489] User 1000 read from file descriptor 10
+[14417.031510] User 1000 is closing file: 10
+[14417.031520] User 1000 is opening file: /lib/i386-linux-gnu/libnih-dbus.so.1
+[14417.031526] User 1000 read from file descriptor 10
+[14417.031546] User 1000 is closing file: 10
+[14417.031557] User 1000 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3
+[14417.031561] User 1000 read from file descriptor 10
+[14417.031582] User 1000 is closing file: 10
+[14417.031593] User 1000 is opening file: /lib/i386-linux-gnu/libpam_misc.so.0
+[14417.031598] User 1000 read from file descriptor 10
+[14417.031620] User 1000 is closing file: 10
+[14417.031633] User 1000 is opening file: /lib/i386-linux-gnu/librt.so.1
+[14417.031637] User 1000 read from file descriptor 10
+[14417.031658] User 1000 is closing file: 10
+[14417.031675] User 1000 is opening file: /lib/i386-linux-gnu/libpthread.so.0
+[14417.031681] User 1000 read from file descriptor 10
+[14417.031705] User 1000 is closing file: 10
+[14417.032005] User 1000 read from file descriptor 9
+[14417.032071] User 1000 is closing file: 9
+[14417.032090] User 1000 read from file descriptor 8
+[14417.032094] User 1000 is closing file: 8
+[14417.032133] User 1000 is opening file: /var/lib/sudo/harry/1
+[14417.032143] User 1000 read from file descriptor 8
+[14417.032164] User 1000 is closing file: 8
+[14417.032172] User 1000 is opening file: /proc/stat
+[14417.032187] User 1000 read from file descriptor 8
+[14417.032262] User 1000 read from file descriptor 8
+[14417.032285] User 1000 read from file descriptor 8
+[14417.032289] User 1000 is closing file: 8
+[14417.032298] User 1000 is opening file: /var/lib/sudo/harry/1
+[14417.032314] User 1000 is closing file: 8
+[14417.032453] User 1000 is closing file: 5
+[14417.032532] User 1000 is closing file: 3
+[14417.032543] User 1000 is closing file: 4
+[14417.032563] User 1000 is opening file: /etc/passwd
+[14417.032576] User 1000 is opening file: /etc/group
+[14417.032593] User 1000 is opening file: /etc/passwd
+[14417.032618] User 1000 is closing file: 5
+[14417.032628] User 1000 is closing file: 3
+[14417.032635] User 1000 is closing file: 4
+[14417.032655] User 1000 is opening file: /etc/passwd
+[14417.032676] User 1000 is closing file: 3
+[14417.039110] User 1000 read from file descriptor 11
+[14417.046171] User 1000 read from file descriptor 11
+[14417.464295] User 1000 read from file descriptor 11
+[14417.483774] User 1000 read from file descriptor 11
+[14417.490426] User 1000 read from file descriptor 11
+[14417.522108] User 1000 read from file descriptor 11
+[14417.523238] User 1000 read from file descriptor 11
+[14417.524568] User 1000 read from file descriptor 11
+[14417.538836] User 1000 read from file descriptor 0
+[14417.538905] User 1000 read from file descriptor 11
+[14438.312988] User 1000 read from file descriptor 3
+[14438.313272] User 1000 read from file descriptor 0
+[14438.313358] User 1000 read from file descriptor 11
+[14438.441306] User 1000 read from file descriptor 3
+[14438.441640] User 1000 read from file descriptor 0
+[14438.441709] User 1000 read from file descriptor 11
+[14438.552889] User 1000 read from file descriptor 3
+[14438.553099] User 1000 read from file descriptor 0
+[14438.553156] User 1000 read from file descriptor 11
+[14438.888706] User 1000 read from file descriptor 3
+[14438.888917] User 1000 read from file descriptor 0
+[14438.888975] User 1000 read from file descriptor 11
+[14439.064597] User 1000 read from file descriptor 3
+[14439.064807] User 1000 read from file descriptor 0
+[14439.064864] User 1000 read from file descriptor 11
+[14439.224820] User 1000 read from file descriptor 3
+[14439.225028] User 1000 read from file descriptor 0
+[14439.225085] User 1000 read from file descriptor 11
+[14439.585527] User 1000 read from file descriptor 3
+[14439.585737] User 1000 read from file descriptor 0
+[14439.585794] User 1000 read from file descriptor 11
+[14439.744652] User 1000 read from file descriptor 3
+[14439.744862] User 1000 read from file descriptor 0
+[14439.744918] User 1000 read from file descriptor 11
+[14439.888810] User 1000 read from file descriptor 3
+[14439.889104] User 1000 read from file descriptor 0
+[14439.889161] User 1000 read from file descriptor 11
+[14440.344318] User 1000 read from file descriptor 3
+[14440.344494] User 1000 read from file descriptor 0
+[14440.344528] User 1000 read from file descriptor 11
+[14440.608197] User 1000 read from file descriptor 3
+[14440.608387] User 1000 read from file descriptor 0
+[14440.608421] User 1000 read from file descriptor 11
+[14440.777235] User 1000 read from file descriptor 3
+[14440.777538] User 1000 read from file descriptor 0
+[14440.777595] User 1000 read from file descriptor 11
+[14440.928686] User 1000 read from file descriptor 3
+[14440.928921] User 1000 read from file descriptor 0
+[14440.928978] User 1000 read from file descriptor 11
+[14441.241276] User 1000 read from file descriptor 3
+[14441.241492] User 1000 read from file descriptor 0
+[14441.241548] User 1000 read from file descriptor 11
+[14441.321369] User 1000 read from file descriptor 3
+[14441.321576] User 1000 read from file descriptor 0
+[14441.321630] User 1000 read from file descriptor 11
+[14441.537180] User 1000 read from file descriptor 3
+[14441.537390] User 1000 read from file descriptor 0
+[14441.537447] User 1000 read from file descriptor 11
+[14441.801327] User 1000 read from file descriptor 3
+[14441.801535] User 1000 read from file descriptor 0
+[14441.801589] User 1000 read from file descriptor 11
+[14442.145567] User 1000 read from file descriptor 3
+[14442.145783] User 1000 read from file descriptor 0
+[14442.145839] User 1000 read from file descriptor 11
+[14442.384852] User 1000 read from file descriptor 3
+[14442.385043] User 1000 read from file descriptor 11
+[14442.386642] User 1000 read from file descriptor 0
+[14442.386706] User 1000 read from file descriptor 11
+[14442.969035] User 1000 read from file descriptor 3
+[14442.969313] User 1000 read from file descriptor 0
+[14442.969360] User 1000 read from file descriptor 11
+[14443.081271] User 1000 read from file descriptor 3
+[14443.081483] User 1000 read from file descriptor 0
+[14443.081525] User 1000 read from file descriptor 11
+[14443.176672] User 1000 read from file descriptor 3
+[14443.176906] User 1000 read from file descriptor 0
+[14443.176971] User 1000 read from file descriptor 11
+[14443.393340] User 1000 read from file descriptor 3
+[14443.393551] User 1000 read from file descriptor 0
+[14443.393608] User 1000 read from file descriptor 11
+[14443.857052] User 1000 read from file descriptor 3
+[14443.857308] User 1000 read from file descriptor 0
+[14443.857357] User 1000 read from file descriptor 11
+[14444.032727] User 1000 read from file descriptor 3
+[14444.032941] User 1000 read from file descriptor 0
+[14444.032998] User 1000 read from file descriptor 11
+[14444.200539] User 1000 read from file descriptor 3
+[14444.200747] User 1000 read from file descriptor 0
+[14444.200801] User 1000 read from file descriptor 11
+[14444.353294] User 1000 read from file descriptor 3
+[14444.353478] User 1000 read from file descriptor 0
+[14444.353540] User 1000 read from file descriptor 11
+[14444.632757] User 1000 read from file descriptor 3
+[14444.632957] User 1000 read from file descriptor 0
+[14444.633014] User 1000 read from file descriptor 11
+[14444.745177] User 1000 read from file descriptor 3
+[14444.745362] User 1000 read from file descriptor 0
+[14444.745419] User 1000 read from file descriptor 11
+[14444.817020] User 1000 read from file descriptor 3
+[14444.817301] User 1000 read from file descriptor 0
+[14444.817358] User 1000 read from file descriptor 11
+[14444.921392] User 1000 read from file descriptor 3
+[14444.921679] User 1000 read from file descriptor 0
+[14444.921755] User 1000 read from file descriptor 11
+[14445.001333] User 1000 read from file descriptor 3
+[14445.001585] User 1000 read from file descriptor 0
+[14445.001682] User 1000 read from file descriptor 11
+[14445.152694] User 1000 read from file descriptor 3
+[14445.152894] User 1000 read from file descriptor 0
+[14445.152933] User 1000 read from file descriptor 11
+[14445.264349] User 1000 read from file descriptor 3
+[14445.264639] User 1000 read from file descriptor 0
+[14445.264681] User 1000 read from file descriptor 11
+[14445.321116] User 1000 read from file descriptor 3
+[14445.321457] User 1000 read from file descriptor 0
+[14445.321494] User 1000 read from file descriptor 11
+[14445.521105] User 1000 read from file descriptor 3
+[14445.521276] User 1000 read from file descriptor 0
+[14445.521310] User 1000 read from file descriptor 11
+[14445.632437] User 1000 read from file descriptor 3
+[14445.632629] User 1000 read from file descriptor 0
+[14445.632687] User 1000 read from file descriptor 11
+[14445.904982] User 1000 read from file descriptor 3
+[14445.905207] User 1000 read from file descriptor 11
+[14445.905559] User 1000 is closing file: 4
+[14445.905571] User 1000 read from file descriptor 3
+[14445.905586] User 1000 is closing file: 3
+[14445.905591] User 1000 is closing file: 4
+[14445.905700] User 1000 is closing file: 3
+[14445.906293] User 1000 is opening file: /etc/ld.so.cache
+[14445.906306] User 1000 is closing file: 3
+[14445.906330] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.906338] User 1000 read from file descriptor 3
+[14445.906489] User 1000 is closing file: 3
+[14445.906825] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.906856] User 1000 is closing file: 3
+[14445.908100] User 1000 is closing file: 3
+[14445.908135] User 1000 is opening file: Makefile
+[14445.908498] User 1000 read from file descriptor 3
+[14445.908732] User 1000 read from file descriptor 3
+[14445.908871] User 1000 is closing file: 3
+[14445.910562] User 1000 is closing file: 4
+[14445.910609] User 1000 read from file descriptor 11
+[14445.911013] User 1000 is opening file: /etc/ld.so.cache
+[14445.911024] User 1000 is closing file: 3
+[14445.911045] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.911051] User 1000 read from file descriptor 3
+[14445.911087] User 1000 is closing file: 3
+[14445.912894] User 1000 is opening file: /etc/ld.so.cache
+[14445.912904] User 1000 is closing file: 3
+[14445.912925] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.912932] User 1000 read from file descriptor 3
+[14445.912965] User 1000 is closing file: 3
+[14445.913244] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.913269] User 1000 is closing file: 3
+[14445.915620] User 1000 is closing file: 3
+[14445.915802] User 1000 is opening file: Makefile
+[14445.916402] User 1000 read from file descriptor 3
+[14445.917018] User 1000 is closing file: 5
+[14445.917219] User 1000 is closing file: 5
+[14445.917226] User 1000 read from file descriptor 4
+[14445.917303] User 1000 is opening file: /etc/ld.so.cache
+[14445.917313] User 1000 is closing file: 5
+[14445.917334] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.917340] User 1000 read from file descriptor 5
+[14445.917374] User 1000 is closing file: 5
+[14445.917649] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.917674] User 1000 is closing file: 5
+[14445.917760] User 1000 is closing file: 1
+[14445.917769] User 1000 is closing file: 2
+[14445.917805] User 1000 read from file descriptor 4
+[14445.917810] User 1000 is closing file: 4
+[14445.917985] User 1000 is closing file: 5
+[14445.918209] User 1000 is closing file: 5
+[14445.918216] User 1000 read from file descriptor 4
+[14445.918314] User 1000 is opening file: /etc/ld.so.cache
+[14445.918323] User 1000 is closing file: 5
+[14445.918343] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.918349] User 1000 read from file descriptor 5
+[14445.918382] User 1000 is closing file: 5
+[14445.918509] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.918578] User 1000 is closing file: 5
+[14445.918678] User 1000 is closing file: 1
+[14445.918694] User 1000 is closing file: 2
+[14445.918727] User 1000 read from file descriptor 4
+[14445.918731] User 1000 is closing file: 4
+[14445.918896] User 1000 read from file descriptor 3
+[14445.919069] User 1000 is closing file: 3
+[14445.920888] User 1000 is opening file: /usr/share/locale/locale.alias
+[14445.920911] User 1000 read from file descriptor 3
+[14445.921055] User 1000 read from file descriptor 3
+[14445.921060] User 1000 is closing file: 3
+[14445.921119] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/make.mo
+[14445.921125] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/make.mo
+[14445.921129] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/make.mo
+[14445.921132] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/make.mo
+[14445.921136] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/make.mo
+[14445.921140] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/make.mo
+[14445.921145] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/make.mo
+[14445.921149] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/make.mo
+[14445.921152] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/make.mo
+[14445.921157] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/make.mo
+[14445.921160] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/make.mo
+[14445.921165] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/make.mo
+[14445.921237] User 1000 is closing file: 4
+[14445.921290] User 1000 read from file descriptor 11
+[14445.921728] User 1000 is opening file: /etc/ld.so.cache
+[14445.921738] User 1000 is closing file: 3
+[14445.921757] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.921763] User 1000 read from file descriptor 3
+[14445.921796] User 1000 is closing file: 3
+[14445.922053] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.922075] User 1000 is closing file: 3
+[14445.922329] User 1000 is closing file: 3
+[14445.922349] User 1000 is opening file: Makefile
+[14445.922368] User 1000 read from file descriptor 3
+[14369.769998] "\xffffffe2\xffffff80\xffffff99\xffffff80\xffffff99Hello world?!\xffffffe2\xffffff80\xffffff99\xffffff80\xffffff99 More like \xffffffe2\xffffff80\xffffff99\xffffff80\xffffff99Goodbye, world!\xffffffe2\xffffff80\xffffff99\xffffff80\xffffff99 EXTERMINATE!" -- Dalek
+[14445.922462] BUG: unable to handle kernel paging request at 40027000
+[14445.922467] IP: [<c1300552>] strlen+0x12/0x20
+[14445.922473] *pdpt = 0000000029821001 *pde = 00000003222a9067
+[14445.922477] Oops: 0000 [#7] SMP
+[14445.922481] Modules linked in: avmod(OX) getloginuid_mod(OX) shift2user_mod(OX) vboxsf(OX) rfcomm(X) bnep(X) bluetooth(X) snd_intel8x0(X) snd_ac97_codec(X) ac97_bus(X) snd_pcm(X) snd_page_alloc(X) snd_seq_midi(X) snd_seq_midi_event(X) snd_rawmidi(X) snd_seq(X) snd_seq_device(X) joydev(X) snd_timer(X) snd(X) vboxvideo(OX) serio_raw(X) soundcore(X) i2c_piix4(X) vboxguest(OX) drm(X) ppdev(X) parport_pc(X) video(X) lp(X) mac_hid(X) parport(X) hid_generic(X) usbhid(X) hid(X) psmouse(X) ahci(X) libahci(X) e1000(X) pata_acpi(X) [last unloaded: getloginuid_mod]
+[14445.922502] CPU: 3 PID: 26448 Comm: make Tainted: G      D W  OX 3.13.11-ckt30 #1
+[14445.922505] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[14445.922507] task: e9e64e00 ti: f689e000 task.ti: f689e000
+[14445.922510] EIP: 0060:[<c1300552>] EFLAGS: 00010246 CPU: 3
+[14445.922512] EIP is at strlen+0x12/0x20
+[14445.922515] EAX: 00000000 EBX: 000003e8 ECX: ffffefff EDX: 00000020
+[14445.922517] ESI: 40026000 EDI: 40027000 EBP: f689ff70 ESP: f689ff6c
+[14445.922519]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS: 0068
+[14445.922522] CR0: 80050033 CR2: 40027000 CR3: 2b38a000 CR4: 000006f0
+[14445.922526] Stack:
+[14445.922528]  ea966280 f689ff8c f8436109 00000005 00000006 000003e8 08b8a7f8 ea966280
+[14445.922532]  f689ffac f84361cc 00000003 40167c28 00000000 00000003 08b8a7f8 000000b5
+[14445.922537]  f689e000 c166648d 00000003 40026000 00001000 08b8a7f8 000000b5 08b8a7f8
+[14445.922542] Call Trace:
+[14445.922548]  [<f8436109>] tolowerstr+0x19/0x80 [avmod]
+[14445.922552]  [<f84361cc>] new_sys_read+0x5c/0x9e [avmod]
+[14445.922558]  [<c166648d>] sysenter_do_call+0x12/0x12
+[14445.922561] Code: f7 be 01 00 00 00 89 f0 48 5e 5d c3 8d b6 00 00 00 00 8d bc 27 00 00 00 00 55 89 e5 57 3e 8d 74 26 00 b9 ff ff ff ff 89 c7 31 c0 <f2> ae b8 fe ff ff ff 29 c8 5f 5d c3 66 90 55 89 e5 57 3e 8d 74
+[14445.922582] EIP: [<c1300552>] strlen+0x12/0x20 SS:ESP 0068:f689ff6c
+[14445.922586] CR2: 0000000040027000
+[14445.922589] ---[ end trace 5c2a43cf99d59580 ]---
+[14445.922793] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/libc.mo
+[14445.922801] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/libc.mo
+[14445.922805] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/libc.mo
+[14445.922809] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/libc.mo
+[14445.922812] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/libc.mo
+[14445.922815] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/libc.mo
+[14445.922819] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/libc.mo
+[14445.922823] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/libc.mo
+[14445.922827] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/libc.mo
+[14445.922831] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/libc.mo
+[14445.922834] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/libc.mo
+[14445.922838] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/libc.mo
+[14445.922936] User 1000 read from file descriptor 11
+[14445.923497] User 1000 is closing file: 1
+[14445.923543] User 1000 read from file descriptor 11
+[14445.925125] User 1000 is opening file: /etc/ld.so.cache
+[14445.925137] User 1000 is closing file: 3
+[14445.925158] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.925164] User 1000 read from file descriptor 3
+[14445.925196] User 1000 is closing file: 3
+[14445.925462] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.925486] User 1000 is closing file: 3
+[14445.926716] User 1000 is closing file: 3
+[14445.926742] User 1000 is opening file: Makefile
+[14445.927007] User 1000 read from file descriptor 3
+[14445.927619] User 1000 is closing file: 5
+[14445.927858] User 1000 is closing file: 5
+[14445.927866] User 1000 read from file descriptor 4
+[14445.927955] User 1000 is opening file: /etc/ld.so.cache
+[14445.927966] User 1000 is closing file: 5
+[14445.927988] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.927996] User 1000 read from file descriptor 5
+[14445.928001] User 1000 is closing file: 5
+[14445.928395] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.928423] User 1000 is closing file: 5
+[14445.928520] User 1000 is closing file: 1
+[14445.928529] User 1000 is closing file: 2
+[14445.928575] User 1000 read from file descriptor 4
+[14445.928607] User 1000 is closing file: 4
+[14445.928718] User 1000 is closing file: 5
+[14445.928911] User 1000 is closing file: 5
+[14445.928919] User 1000 read from file descriptor 4
+[14445.928996] User 1000 is opening file: /etc/ld.so.cache
+[14445.929004] User 1000 is closing file: 5
+[14445.929023] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.929029] User 1000 read from file descriptor 5
+[14445.929060] User 1000 is closing file: 5
+[14445.929457] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.929487] User 1000 is closing file: 5
+[14445.929628] User 1000 is closing file: 1
+[14445.929639] User 1000 is closing file: 2
+[14445.929662] User 1000 read from file descriptor 4
+[14445.929667] User 1000 is closing file: 4
+[14445.929798] User 1000 read from file descriptor 3
+[14445.929969] User 1000 is closing file: 3
+[14445.931067] User 1000 is opening file: /usr/share/locale/locale.alias
+[14445.931086] User 1000 read from file descriptor 3
+[14445.931161] User 1000 read from file descriptor 3
+[14445.931165] User 1000 is closing file: 3
+[14445.931217] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/make.mo
+[14445.931222] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/make.mo
+[14445.931226] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/make.mo
+[14445.931230] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/make.mo
+[14445.931233] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/make.mo
+[14445.931236] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/make.mo
+[14445.931241] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/make.mo
+[14445.931244] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/make.mo
+[14445.931248] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/make.mo
+[14445.931252] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/make.mo
+[14445.931255] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/make.mo
+[14445.931259] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/make.mo
+[14445.931337] User 1000 is closing file: 4
+[14445.931355] User 1000 read from file descriptor 11
+[14445.931823] User 1000 is opening file: /etc/ld.so.cache
+[14445.931835] User 1000 is closing file: 3
+[14445.931858] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.931865] User 1000 read from file descriptor 3
+[14445.931906] User 1000 is closing file: 3
+[14445.932300] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.932337] User 1000 is closing file: 3
+[14445.932663] User 1000 is closing file: 3
+[14445.932687] User 1000 is opening file: Makefile
+[14445.932709] User 1000 read from file descriptor 3
+[14445.932814] BUG: unable to handle kernel paging request at 40027000
+[14445.932818] IP: [<c1300552>] strlen+0x12/0x20
+[14445.932825] *pdpt = 000000002b38a001 *pde = 000000031fc53067
+[14445.932829] Oops: 0000 [#8] SMP
+[14445.932832] Modules linked in: avmod(OX) getloginuid_mod(OX) shift2user_mod(OX) vboxsf(OX) rfcomm(X) bnep(X) bluetooth(X) snd_intel8x0(X) snd_ac97_codec(X) ac97_bus(X) snd_pcm(X) snd_page_alloc(X) snd_seq_midi(X) snd_seq_midi_event(X) snd_rawmidi(X) snd_seq(X) snd_seq_device(X) joydev(X) snd_timer(X) snd(X) vboxvideo(OX) serio_raw(X) soundcore(X) i2c_piix4(X) vboxguest(OX) drm(X) ppdev(X) parport_pc(X) video(X) lp(X) mac_hid(X) parport(X) hid_generic(X) usbhid(X) hid(X) psmouse(X) ahci(X) libahci(X) e1000(X) pata_acpi(X) [last unloaded: getloginuid_mod]
+[14445.932855] CPU: 3 PID: 26452 Comm: make Tainted: G      D W  OX 3.13.11-ckt30 #1
+[14445.932857] Hardware name: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[14445.932859] task: f680ce00 ti: ea7c2000 task.ti: ea7c2000
+[14445.932862] EIP: 0060:[<c1300552>] EFLAGS: 00010246 CPU: 3
+[14445.932865] EIP is at strlen+0x12/0x20
+[14445.932867] EAX: 00000000 EBX: 000003e8 ECX: ffffefff EDX: 00000020
+[14445.932869] ESI: 40026000 EDI: 40027000 EBP: ea7c3f70 ESP: ea7c3f6c
+[14445.932872]  DS: 007b ES: 007b FS: 00d8 GS: 00e0 SS: 0068
+[14445.932874] CR0: 80050033 CR2: 40027000 CR3: 2a7ca000 CR4: 000006f0
+[14445.932878] Stack:
+[14445.932880]  ea90ca80 ea7c3f8c f8436109 00000005 00000006 000003e8 09148800 ea90ca80
+[14445.932885]  ea7c3fac f84361cc 00000003 40167c28 00000000 00000003 09148800 000000b5
+[14445.932889]  ea7c2000 c166648d 00000003 40026000 00001000 09148800 000000b5 09148800
+[14445.932894] Call Trace:
+[14445.932900]  [<f8436109>] tolowerstr+0x19/0x80 [avmod]
+[14445.932904]  [<f84361cc>] new_sys_read+0x5c/0x9e [avmod]
+[14445.932911]  [<c166648d>] sysenter_do_call+0x12/0x12
+[14445.932913] Code: f7 be 01 00 00 00 89 f0 48 5e 5d c3 8d b6 00 00 00 00 8d bc 27 00 00 00 00 55 89 e5 57 3e 8d 74 26 00 b9 ff ff ff ff 89 c7 31 c0 <f2> ae b8 fe ff ff ff 29 c8 5f 5d c3 66 90 55 89 e5 57 3e 8d 74
+[14445.932934] EIP: [<c1300552>] strlen+0x12/0x20 SS:ESP 0068:ea7c3f6c
+[14445.932938] CR2: 0000000040027000
+[14445.932941] ---[ end trace 5c2a43cf99d59581 ]---
+[14445.933145] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/libc.mo
+[14445.933153] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/libc.mo
+[14445.933157] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/libc.mo
+[14445.933160] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/libc.mo
+[14445.933164] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/libc.mo
+[14445.933167] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/libc.mo
+[14445.933171] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/libc.mo
+[14445.933176] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/libc.mo
+[14445.933179] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/libc.mo
+[14445.933183] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/libc.mo
+[14445.933187] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/libc.mo
+[14445.933190] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/libc.mo
+[14445.933302] User 1000 read from file descriptor 11
+[14445.933897] User 1000 is closing file: 1
+[14445.933942] User 1000 read from file descriptor 11
+[14445.934482] User 1000 read from file descriptor 11
+[14445.934824] User 1000 is opening file: /etc/ld.so.cache
+[14445.934834] User 1000 is closing file: 3
+[14445.934854] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.934860] User 1000 read from file descriptor 3
+[14445.934894] User 1000 is closing file: 3
+[14445.936453] User 1000 is closing file: 3
+[14445.936949] User 1000 is opening file: /etc/ld.so.cache
+[14445.936959] User 1000 is closing file: 3
+[14445.936979] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14445.936985] User 1000 read from file descriptor 3
+[14445.937017] User 1000 is closing file: 3
+[14445.937266] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14445.937289] User 1000 is closing file: 3
+[14445.938994] User 1000 is closing file: 0
+[14445.939001] User 1000 is closing file: 1
+[14445.939004] User 1000 is closing file: 2
+[14445.939582] User 1000 is closing file: 1
+[14445.940457] User 1000 read from file descriptor 0
+[14445.940584] User 1000 read from file descriptor 11
+[14447.577468] User 1000 read from file descriptor 3
+[14447.577665] User 1000 read from file descriptor 0
+[14447.577676] User 1000 read from file descriptor 0
+[14447.577779] User 1000 read from file descriptor 0
+[14447.577865] User 1000 read from file descriptor 11
+[14448.041267] User 1000 read from file descriptor 3
+[14448.041465] User 1000 read from file descriptor 0
+[14448.041475] User 1000 read from file descriptor 0
+[14448.041564] User 1000 read from file descriptor 0
+[14448.041678] User 1000 read from file descriptor 11
+[14448.291438] User 1000 read from file descriptor 3
+[14448.291566] User 1000 read from file descriptor 0
+[14448.291574] User 1000 read from file descriptor 0
+[14448.291629] User 1000 read from file descriptor 0
+[14448.291687] User 1000 read from file descriptor 11
+[14448.324997] User 1000 read from file descriptor 3
+[14448.325148] User 1000 read from file descriptor 0
+[14448.325155] User 1000 read from file descriptor 0
+[14448.325210] User 1000 read from file descriptor 0
+[14448.325272] User 1000 read from file descriptor 11
+[14448.358183] User 1000 read from file descriptor 3
+[14448.358354] User 1000 read from file descriptor 0
+[14448.358364] User 1000 read from file descriptor 0
+[14448.358434] User 1000 read from file descriptor 0
+[14448.358493] User 1000 read from file descriptor 11
+[14448.392476] User 1000 read from file descriptor 3
+[14448.392634] User 1000 read from file descriptor 0
+[14448.392641] User 1000 read from file descriptor 0
+[14448.392696] User 1000 read from file descriptor 0
+[14448.392755] User 1000 read from file descriptor 11
+[14448.426750] User 1000 read from file descriptor 3
+[14448.426895] User 1000 read from file descriptor 0
+[14448.426902] User 1000 read from file descriptor 0
+[14448.426957] User 1000 read from file descriptor 0
+[14448.427026] User 1000 read from file descriptor 11
+[14448.461086] User 1000 read from file descriptor 3
+[14448.461256] User 1000 read from file descriptor 0
+[14448.461263] User 1000 read from file descriptor 0
+[14448.461316] User 1000 read from file descriptor 0
+[14448.461379] User 1000 read from file descriptor 11
+[14448.494059] User 1000 read from file descriptor 3
+[14448.494191] User 1000 read from file descriptor 0
+[14448.494197] User 1000 read from file descriptor 0
+[14448.494247] User 1000 read from file descriptor 0
+[14448.494302] User 1000 read from file descriptor 11
+[14448.528427] User 1000 read from file descriptor 3
+[14448.528569] User 1000 read from file descriptor 0
+[14448.528576] User 1000 read from file descriptor 0
+[14448.528632] User 1000 read from file descriptor 0
+[14448.528691] User 1000 read from file descriptor 11
+[14448.563354] User 1000 read from file descriptor 3
+[14448.563495] User 1000 read from file descriptor 0
+[14448.563502] User 1000 read from file descriptor 0
+[14448.563554] User 1000 read from file descriptor 0
+[14448.563613] User 1000 read from file descriptor 11
+[14448.597123] User 1000 read from file descriptor 3
+[14448.597265] User 1000 read from file descriptor 0
+[14448.597272] User 1000 read from file descriptor 0
+[14448.597322] User 1000 read from file descriptor 0
+[14448.597368] User 1000 read from file descriptor 11
+[14448.632001] User 1000 read from file descriptor 3
+[14448.632182] User 1000 read from file descriptor 0
+[14448.632192] User 1000 read from file descriptor 0
+[14448.632248] User 1000 read from file descriptor 0
+[14448.632290] User 1000 read from file descriptor 11
+[14448.665799] User 1000 read from file descriptor 3
+[14448.665935] User 1000 read from file descriptor 0
+[14448.665943] User 1000 read from file descriptor 0
+[14448.665995] User 1000 read from file descriptor 0
+[14448.666041] User 1000 read from file descriptor 11
+[14448.700073] User 1000 read from file descriptor 3
+[14448.700200] User 1000 read from file descriptor 0
+[14448.700207] User 1000 read from file descriptor 0
+[14448.700255] User 1000 read from file descriptor 0
+[14448.700300] User 1000 read from file descriptor 11
+[14448.793031] User 1000 read from file descriptor 3
+[14448.793642] User 1000 read from file descriptor 0
+[14448.793690] User 1000 read from file descriptor 11
+[14448.984810] User 1000 read from file descriptor 3
+[14448.985794] User 1000 read from file descriptor 0
+[14448.985858] User 1000 read from file descriptor 11
+[14449.072927] User 1000 read from file descriptor 3
+[14449.073536] User 1000 read from file descriptor 0
+[14449.073642] User 1000 read from file descriptor 11
+[14449.193131] User 1000 read from file descriptor 3
+[14449.193754] User 1000 read from file descriptor 0
+[14449.193820] User 1000 read from file descriptor 11
+[14449.312672] User 1000 read from file descriptor 3
+[14449.313298] User 1000 read from file descriptor 0
+[14449.313366] User 1000 read from file descriptor 11
+[14449.568637] User 1000 read from file descriptor 3
+[14449.569057] User 1000 read from file descriptor 11
+[14449.569436] User 1000 is closing file: 3
+[14449.569444] User 1000 is closing file: 4
+[14449.569477] User 1000 is closing file: 4
+[14449.569490] User 1000 read from file descriptor 3
+[14449.569498] User 1000 is closing file: 3
+[14449.570036] User 1000 is opening file: /etc/ld.so.cache
+[14449.570048] User 1000 is closing file: 3
+[14449.570073] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+[14449.570079] User 1000 read from file descriptor 3
+[14449.570115] User 1000 is closing file: 3
+[14449.570126] User 1000 is opening file: /lib/i386-linux-gnu/libutil.so.1
+[14449.570132] User 1000 read from file descriptor 3
+[14449.570152] User 1000 is closing file: 3
+[14449.570168] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+[14449.570183] User 1000 read from file descriptor 3
+[14449.570210] User 1000 is closing file: 3
+[14449.570220] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14449.570225] User 1000 read from file descriptor 3
+[14449.570251] User 1000 is closing file: 3
+[14449.570266] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+[14449.570271] User 1000 read from file descriptor 3
+[14449.570293] User 1000 is closing file: 3
+[14449.570783] User 1000 is opening file: /proc/filesystems
+[14449.570820] User 1000 read from file descriptor 3
+[14449.570851] User 1000 read from file descriptor 3
+[14449.570863] User 1000 is closing file: 3
+[14449.570928] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14449.570951] User 1000 is closing file: 3
+[14449.570985] User 1000 is opening file: /etc/localtime
+[14449.570998] User 1000 read from file descriptor 3
+[14449.571014] User 1000 read from file descriptor 3
+[14449.571021] User 1000 is closing file: 3
+[14449.571087] User 1000 is opening file: /dev/tty
+[14449.571098] User 1000 is closing file: 3
+[14449.571139] User 1000 is closing file: 3
+[14449.571151] User 1000 is closing file: 3
+[14449.571160] User 1000 is opening file: /etc/nsswitch.conf
+[14449.571172] User 1000 read from file descriptor 3
+[14449.571210] User 1000 read from file descriptor 3
+[14449.571213] User 1000 is closing file: 3
+[14449.571226] User 1000 is opening file: /etc/ld.so.cache
+[14449.571233] User 1000 is closing file: 3
+[14449.571253] User 1000 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2
+[14449.571259] User 1000 read from file descriptor 3
+[14449.571282] User 1000 is closing file: 3
+[14449.571290] User 1000 is opening file: /lib/i386-linux-gnu/libnsl.so.1
+[14449.571295] User 1000 read from file descriptor 3
+[14449.571320] User 1000 is closing file: 3
+[14449.571367] User 1000 is opening file: /etc/ld.so.cache
+[14449.571373] User 1000 is closing file: 3
+[14449.571391] User 1000 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2
+[14449.571397] User 1000 read from file descriptor 3
+[14449.571420] User 1000 is closing file: 3
+[14449.571430] User 1000 is opening file: /lib/i386-linux-gnu/libnss_files.so.2
+[14449.571435] User 1000 read from file descriptor 3
+[14449.571456] User 1000 is closing file: 3
+[14449.571487] User 1000 is opening file: /etc/passwd
+[14449.571521] User 1000 is closing file: 3
+[14449.571556] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14449.571564] User 1000 read from file descriptor 3
+[14449.571567] User 1000 is closing file: 3
+[14449.571588] User 1000 is opening file: /proc/26455/stat
+[14449.571605] User 1000 read from file descriptor 3
+[14449.571621] User 1000 is closing file: 3
+[14449.571712] User 1000 is closing file: 3
+[14449.571757] User 1000 is opening file: /usr/lib/sudo/sudoers.so
+[14449.571762] User 1000 read from file descriptor 3
+[14449.571787] User 1000 is closing file: 3
+[14449.571796] User 1000 is opening file: /etc/ld.so.cache
+[14449.571801] User 1000 is closing file: 3
+[14449.571820] User 1000 is opening file: /lib/i386-linux-gnu/libpam.so.0
+[14449.571826] User 1000 read from file descriptor 3
+[14449.571846] User 1000 is closing file: 3
+[14449.571861] User 1000 is opening file: /lib/i386-linux-gnu/libaudit.so.1
+[14449.571865] User 1000 read from file descriptor 3
+[14449.571888] User 1000 is closing file: 3
+[14449.571973] User 1000 is opening file: /etc/passwd
+[14449.571987] User 1000 is opening file: /etc/default/nss
+[14449.571997] User 1000 read from file descriptor 4
+[14449.572003] User 1000 read from file descriptor 4
+[14449.572143] User 1000 is closing file: 4
+[14449.572176] User 1000 is opening file: /etc/group
+[14449.572226] User 1000 is opening file: /usr/share/locale/locale.alias
+[14449.572239] User 1000 read from file descriptor 5
+[14449.572310] User 1000 read from file descriptor 5
+[14449.572314] User 1000 is closing file: 5
+[14449.572385] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14449.572393] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14449.572397] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo
+[14449.572402] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14449.572407] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/sudoers.mo
+[14449.572411] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo
+[14449.572417] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14449.572422] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14449.572426] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo
+[14449.572432] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14449.572436] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/sudoers.mo
+[14449.572441] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo
+[14449.572509] User 1000 is opening file: /etc/passwd
+[14449.572535] User 1000 is closing file: 5
+[14449.572561] User 1000 is closing file: 5
+[14449.572574] User 1000 is closing file: 5
+[14449.572583] User 1000 is opening file: /etc/group
+[14449.572607] User 1000 is closing file: 5
+[14449.572617] User 1000 is opening file: /etc/group
+[14449.572628] User 1000 is closing file: 5
+[14449.572634] User 1000 is opening file: /etc/group
+[14449.572646] User 1000 is closing file: 5
+[14449.572649] User 1000 is opening file: /etc/group
+[14449.573492] User 1000 is closing file: 5
+[14449.573505] User 1000 is opening file: /etc/group
+[14449.573523] User 1000 is closing file: 5
+[14449.573533] User 1000 is opening file: /etc/group
+[14449.573556] User 1000 is closing file: 5
+[14449.573567] User 1000 is opening file: /etc/group
+[14449.573592] User 1000 is closing file: 5
+[14449.573598] User 1000 is opening file: /etc/group
+[14449.573617] User 1000 is closing file: 5
+[14449.573622] User 1000 is opening file: /etc/group
+[14449.573640] User 1000 is closing file: 5
+[14449.573656] User 1000 is opening file: /etc/nsswitch.conf
+[14449.573666] User 1000 read from file descriptor 5
+[14449.573690] User 1000 read from file descriptor 5
+[14449.573694] User 1000 is closing file: 5
+[14449.574004] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14449.574012] User 1000 read from file descriptor 8
+[14449.574015] User 1000 is closing file: 8
+[14449.574036] User 1000 is opening file: /etc/group
+[14449.574062] User 1000 is closing file: 8
+[14449.574071] User 1000 is opening file: /etc/group
+[14449.574082] User 1000 is closing file: 8
+[14449.574163] User 1000 is opening file: /etc/pam.d/sudo
+[14449.574173] User 1000 read from file descriptor 8
+[14449.574193] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_env.so
+[14449.574199] User 1000 read from file descriptor 9
+[14449.574221] User 1000 is closing file: 9
+[14449.574260] User 1000 is opening file: /etc/pam.d/common-auth
+[14449.574268] User 1000 read from file descriptor 9
+[14449.574285] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_unix.so
+[14449.574290] User 1000 read from file descriptor 10
+[14449.574318] User 1000 is closing file: 10
+[14449.574325] User 1000 is opening file: /etc/ld.so.cache
+[14449.574331] User 1000 is closing file: 10
+[14449.574349] User 1000 is opening file: /lib/i386-linux-gnu/libcrypt.so.1
+[14449.574355] User 1000 read from file descriptor 10
+[14449.574378] User 1000 is closing file: 10
+[14449.574456] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_deny.so
+[14449.574462] User 1000 read from file descriptor 10
+[14449.574482] User 1000 is closing file: 10
+[14449.574499] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_permit.so
+[14449.574504] User 1000 read from file descriptor 10
+[14449.574523] User 1000 is closing file: 10
+[14449.574547] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_cap.so
+[14449.574553] User 1000 read from file descriptor 10
+[14449.574572] User 1000 is closing file: 10
+[14449.574579] User 1000 is opening file: /etc/ld.so.cache
+[14449.574585] User 1000 is closing file: 10
+[14449.574602] User 1000 is opening file: /lib/i386-linux-gnu/libcap.so.2
+[14449.574607] User 1000 read from file descriptor 10
+[14449.574629] User 1000 is closing file: 10
+[14449.574692] User 1000 read from file descriptor 9
+[14449.574697] User 1000 is closing file: 9
+[14449.574708] User 1000 is opening file: /etc/pam.d/common-account
+[14449.574716] User 1000 read from file descriptor 9
+[14449.574756] User 1000 read from file descriptor 9
+[14449.574759] User 1000 is closing file: 9
+[14449.574769] User 1000 is opening file: /etc/pam.d/common-session-noninteractive
+[14449.574776] User 1000 read from file descriptor 9
+[14449.574800] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_umask.so
+[14449.574805] User 1000 read from file descriptor 10
+[14449.574825] User 1000 is closing file: 10
+[14449.574877] User 1000 read from file descriptor 9
+[14449.574880] User 1000 is closing file: 9
+[14449.574892] User 1000 read from file descriptor 8
+[14449.574896] User 1000 is closing file: 8
+[14449.574902] User 1000 is opening file: /etc/pam.d/other
+[14449.574910] User 1000 read from file descriptor 8
+[14449.574922] User 1000 is opening file: /etc/pam.d/common-auth
+[14449.574928] User 1000 read from file descriptor 9
+[14449.574969] User 1000 read from file descriptor 9
+[14449.574973] User 1000 is closing file: 9
+[14449.574982] User 1000 is opening file: /etc/pam.d/common-account
+[14449.574989] User 1000 read from file descriptor 9
+[14449.575027] User 1000 read from file descriptor 9
+[14449.575030] User 1000 is closing file: 9
+[14449.575039] User 1000 is opening file: /etc/pam.d/common-password
+[14449.575046] User 1000 read from file descriptor 9
+[14449.575066] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so
+[14449.575071] User 1000 read from file descriptor 10
+[14449.575093] User 1000 is closing file: 10
+[14449.575159] User 1000 read from file descriptor 9
+[14449.575163] User 1000 is closing file: 9
+[14449.575173] User 1000 is opening file: /etc/pam.d/common-session
+[14449.575181] User 1000 read from file descriptor 9
+[14449.575208] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_systemd.so
+[14449.575214] User 1000 read from file descriptor 10
+[14449.575235] User 1000 is closing file: 10
+[14449.575242] User 1000 is opening file: /etc/ld.so.cache
+[14449.575248] User 1000 is closing file: 10
+[14449.575264] User 1000 is opening file: /lib/i386-linux-gnu/libcgmanager.so.0
+[14449.575270] User 1000 read from file descriptor 10
+[14449.575292] User 1000 is closing file: 10
+[14449.575310] User 1000 is opening file: /lib/i386-linux-gnu/libnih.so.1
+[14449.575315] User 1000 read from file descriptor 10
+[14449.575336] User 1000 is closing file: 10
+[14449.575346] User 1000 is opening file: /lib/i386-linux-gnu/libnih-dbus.so.1
+[14449.575351] User 1000 read from file descriptor 10
+[14449.575391] User 1000 is closing file: 10
+[14449.575421] User 1000 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3
+[14449.575429] User 1000 read from file descriptor 10
+[14449.575525] User 1000 is closing file: 10
+[14449.575545] User 1000 is opening file: /lib/i386-linux-gnu/libpam_misc.so.0
+[14449.575554] User 1000 read from file descriptor 10
+[14449.575588] User 1000 is closing file: 10
+[14449.575608] User 1000 is opening file: /lib/i386-linux-gnu/librt.so.1
+[14449.575615] User 1000 read from file descriptor 10
+[14449.575643] User 1000 is closing file: 10
+[14449.575663] User 1000 is opening file: /lib/i386-linux-gnu/libpthread.so.0
+[14449.575669] User 1000 read from file descriptor 10
+[14449.575697] User 1000 is closing file: 10
+[14449.576004] User 1000 read from file descriptor 9
+[14449.576081] User 1000 is closing file: 9
+[14449.576110] User 1000 read from file descriptor 8
+[14449.576144] User 1000 is closing file: 8
+[14449.576181] User 1000 is opening file: /var/lib/sudo/harry/1
+[14449.576191] User 1000 read from file descriptor 8
+[14449.576216] User 1000 is closing file: 8
+[14449.576225] User 1000 is opening file: /proc/stat
+[14449.576244] User 1000 read from file descriptor 8
+[14449.576356] User 1000 read from file descriptor 8
+[14449.576390] User 1000 read from file descriptor 8
+[14449.576395] User 1000 is closing file: 8
+[14449.576412] User 1000 is opening file: /var/lib/sudo/harry/1
+[14449.576435] User 1000 is closing file: 8
+[14449.576577] User 1000 is closing file: 5
+[14449.576606] User 1000 is closing file: 3
+[14449.576617] User 1000 is closing file: 4
+[14449.576634] User 1000 is opening file: /etc/passwd
+[14449.576647] User 1000 is opening file: /etc/group
+[14449.576663] User 1000 is opening file: /etc/passwd
+[14449.576684] User 1000 is closing file: 5
+[14449.576694] User 1000 is closing file: 3
+[14449.576701] User 1000 is closing file: 4
+[14449.576720] User 1000 is opening file: /etc/passwd
+[14449.576735] User 1000 is closing file: 3
+[14449.582761] User 1000 read from file descriptor 11
+[14449.589775] User 1000 read from file descriptor 11
+[14450.040892] User 1000 read from file descriptor 11
+[14450.061985] User 1000 read from file descriptor 11
+[14450.069099] User 1000 read from file descriptor 11
+[14450.102744] User 1000 read from file descriptor 11
+[14450.103942] User 1000 read from file descriptor 11
+[14450.110942] User 1000 read from file descriptor 11
+[14450.584164] User 1000 read from file descriptor 11
+[14450.584556] User 1000 read from file descriptor 11
+[14450.606040] User 1000 read from file descriptor 11
+[14450.613390] User 1000 read from file descriptor 11
+[14450.644215] User 1000 read from file descriptor 11
+[14450.645047] User 1000 read from file descriptor 11
+[14450.645731] User 1000 read from file descriptor 11
+[14450.656112] User 1000 read from file descriptor 0
+[14450.656156] User 1000 read from file descriptor 11
+[14922.970423] User 1000 read from file descriptor 3
+[14922.970618] User 1000 read from file descriptor 0
+[14922.970710] User 1000 read from file descriptor 11
+[14923.056954] User 1000 read from file descriptor 3
+[14923.057138] User 1000 read from file descriptor 0
+[14923.057227] User 1000 read from file descriptor 11
+[14923.193165] User 1000 read from file descriptor 3
+[14923.193334] User 1000 read from file descriptor 0
+[14923.193405] User 1000 read from file descriptor 11
+[14923.529403] User 1000 read from file descriptor 3
+[14923.529660] User 1000 read from file descriptor 0
+[14923.529856] User 1000 read from file descriptor 11
+[14923.689383] User 1000 read from file descriptor 3
+[14923.689576] User 1000 read from file descriptor 0
+[14923.689766] User 1000 read from file descriptor 11
+[14923.881473] User 1000 read from file descriptor 3
+[14923.881661] User 1000 read from file descriptor 0
+[14923.881752] User 1000 read from file descriptor 11
+[14924.088668] User 1000 read from file descriptor 3
+[14924.089070] User 1000 read from file descriptor 11
+[14924.090177] User 1000 read from file descriptor 0
+[14924.090276] User 1000 read from file descriptor 11
+[14924.401245] User 1000 read from file descriptor 3
+[14924.401437] User 1000 read from file descriptor 0
+[14924.401508] User 1000 read from file descriptor 11
+[14924.481453] User 1000 read from file descriptor 3
+[14924.481678] User 1000 read from file descriptor 0
+[14924.481839] User 1000 read from file descriptor 11
+[14924.592847] User 1000 read from file descriptor 3
+[14924.593030] User 1000 read from file descriptor 0
+[14924.593130] User 1000 read from file descriptor 11
+[14924.905799] User 1000 read from file descriptor 3
+[14924.905980] User 1000 read from file descriptor 0
+[14924.906069] User 1000 read from file descriptor 11
+[14925.162936] User 1000 read from file descriptor 3
+[14925.163191] User 1000 read from file descriptor 0
+[14925.163317] User 1000 read from file descriptor 11
+[14925.249847] User 1000 read from file descriptor 3
+[14925.250008] User 1000 read from file descriptor 0
+[14925.250143] User 1000 read from file descriptor 11
+[14925.450464] User 1000 read from file descriptor 3
+[14925.450702] User 1000 read from file descriptor 0
+[14925.450808] User 1000 read from file descriptor 11
+[14925.628286] User 1000 read from file descriptor 3
+[14925.628640] User 1000 read from file descriptor 0
+[14925.628764] User 1000 read from file descriptor 11
+[14926.329043] User 1000 read from file descriptor 3
+[14926.329327] User 1000 read from file descriptor 0
+[14926.329438] User 1000 read from file descriptor 11
+[14926.585209] User 1000 read from file descriptor 3
+[14926.585613] User 1000 read from file descriptor 11
+[14926.586516] User 1000 read from file descriptor 0
+[14926.586621] User 1000 read from file descriptor 11
+[14927.937580] User 1000 read from file descriptor 3
+[14927.937765] User 1000 read from file descriptor 0
+[14927.937913] User 1000 read from file descriptor 11
+[14928.081485] User 1000 read from file descriptor 3
+[14928.081658] User 1000 read from file descriptor 0
+[14928.081745] User 1000 read from file descriptor 11
+[14928.169283] User 1000 read from file descriptor 3
+[14928.169460] User 1000 read from file descriptor 0
+[14928.169546] User 1000 read from file descriptor 11
+[14928.369341] User 1000 read from file descriptor 3
+[14928.369598] User 1000 read from file descriptor 0
+[14928.369682] User 1000 read from file descriptor 11
+[14928.512889] User 1000 read from file descriptor 3
+[14928.513076] User 1000 read from file descriptor 0
+[14928.513165] User 1000 read from file descriptor 11
+[14928.657436] User 1000 read from file descriptor 3
+[14928.658000] User 1000 is closing file: 4
+[14928.658005] User 1000 is closing file: 3
+[14928.658010] User 1000 is closing file: 4
+[14928.658023] User 1000 read from file descriptor 3
+[14928.658033] User 1000 is closing file: 3
+[14928.658203] User 1000 read from file descriptor 11
+[14928.658726] User 1000 is opening file: /etc/ld.so.cache
+[14928.658739] User 1000 is closing file: 3
+[14928.658763] User 1000 is opening file: /lib/i386-linux-gnu/libtinfo.so.5
+[14928.658770] User 1000 read from file descriptor 3
+[14928.658801] User 1000 is closing file: 3
+[14928.658817] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14928.658824] User 1000 read from file descriptor 3
+[14928.658853] User 1000 is closing file: 3
+[14928.659227] User 1000 is opening file: /lib/terminfo/x/xterm-256color
+[14928.659246] User 1000 read from file descriptor 3
+[14928.659254] User 1000 read from file descriptor 3
+[14928.659401] User 1000 is closing file: 3
+[14928.659734] User 1000 read from file descriptor 11
+[14928.660488] User 1000 read from file descriptor 0
+[14928.660566] User 1000 read from file descriptor 11
+[14929.864954] User 1000 read from file descriptor 3
+[14929.865132] User 1000 read from file descriptor 0
+[14929.865218] User 1000 read from file descriptor 11
+[14929.945193] User 1000 read from file descriptor 3
+[14929.945380] User 1000 read from file descriptor 0
+[14929.945473] User 1000 read from file descriptor 11
+[14930.048953] User 1000 read from file descriptor 3
+[14930.049151] User 1000 read from file descriptor 0
+[14930.049319] User 1000 read from file descriptor 11
+[14930.128885] User 1000 read from file descriptor 3
+[14930.129049] User 1000 read from file descriptor 0
+[14930.129129] User 1000 read from file descriptor 11
+[14931.905106] User 1000 read from file descriptor 3
+[14931.905382] User 1000 read from file descriptor 0
+[14931.905517] User 1000 read from file descriptor 11
+[14932.156509] User 1000 read from file descriptor 3
+[14932.156712] User 1000 read from file descriptor 0
+[14932.156805] User 1000 read from file descriptor 11
+[14932.190678] User 1000 read from file descriptor 3
+[14932.190918] User 1000 read from file descriptor 0
+[14932.191010] User 1000 read from file descriptor 11
+[14932.223927] User 1000 read from file descriptor 3
+[14932.224108] User 1000 read from file descriptor 0
+[14932.224198] User 1000 read from file descriptor 11
+[14932.257607] User 1000 read from file descriptor 3
+[14932.257836] User 1000 read from file descriptor 0
+[14932.257971] User 1000 read from file descriptor 11
+[14932.291274] User 1000 read from file descriptor 3
+[14932.291430] User 1000 read from file descriptor 0
+[14932.291521] User 1000 read from file descriptor 11
+[14932.325004] User 1000 read from file descriptor 3
+[14932.325194] User 1000 read from file descriptor 0
+[14932.325245] User 1000 read from file descriptor 11
+[14932.359998] User 1000 read from file descriptor 3
+[14932.360214] User 1000 read from file descriptor 0
+[14932.360299] User 1000 read from file descriptor 11
+[14932.465302] User 1000 read from file descriptor 3
+[14932.465484] User 1000 read from file descriptor 0
+[14932.465574] User 1000 read from file descriptor 11
+[14932.633248] User 1000 read from file descriptor 3
+[14932.633434] User 1000 read from file descriptor 0
+[14932.633522] User 1000 read from file descriptor 11
+[14932.745453] User 1000 read from file descriptor 3
+[14932.745646] User 1000 read from file descriptor 0
+[14932.745737] User 1000 read from file descriptor 11
+[14932.849433] User 1000 read from file descriptor 3
+[14932.849620] User 1000 read from file descriptor 0
+[14932.849710] User 1000 read from file descriptor 11
+[14933.113877] User 1000 read from file descriptor 3
+[14933.114060] User 1000 read from file descriptor 0
+[14933.114150] User 1000 read from file descriptor 11
+[14933.232616] User 1000 read from file descriptor 3
+[14933.232794] User 1000 read from file descriptor 0
+[14933.232876] User 1000 read from file descriptor 11
+[14933.321911] User 1000 read from file descriptor 3
+[14933.322169] User 1000 read from file descriptor 0
+[14933.322299] User 1000 read from file descriptor 11
+[14933.440809] User 1000 read from file descriptor 3
+[14933.440996] User 1000 read from file descriptor 0
+[14933.441084] User 1000 read from file descriptor 11
+[14933.529310] User 1000 read from file descriptor 3
+[14933.529559] User 1000 read from file descriptor 0
+[14933.529742] User 1000 read from file descriptor 11
+[14933.928827] User 1000 read from file descriptor 3
+[14933.929370] User 1000 is closing file: 3
+[14933.929375] User 1000 is closing file: 4
+[14933.929379] User 1000 is closing file: 4
+[14933.929382] User 1000 read from file descriptor 3
+[14933.929396] User 1000 is closing file: 3
+[14933.929667] User 1000 read from file descriptor 11
+[14933.930293] User 1000 is opening file: /etc/ld.so.cache
+[14933.930305] User 1000 is closing file: 3
+[14933.930330] User 1000 is opening file: /lib/i386-linux-gnu/libselinux.so.1
+[14933.930336] User 1000 read from file descriptor 3
+[14933.930373] User 1000 is closing file: 3
+[14933.930384] User 1000 is opening file: /lib/i386-linux-gnu/libutil.so.1
+[14933.930390] User 1000 read from file descriptor 3
+[14933.930411] User 1000 is closing file: 3
+[14933.930428] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+[14933.930434] User 1000 read from file descriptor 3
+[14933.930462] User 1000 is closing file: 3
+[14933.930473] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14933.930479] User 1000 read from file descriptor 3
+[14933.930505] User 1000 is closing file: 3
+[14933.930521] User 1000 is opening file: /lib/i386-linux-gnu/libpcre.so.3
+[14933.930527] User 1000 read from file descriptor 3
+[14933.930550] User 1000 is closing file: 3
+[14933.931044] User 1000 is opening file: /proc/filesystems
+[14933.931081] User 1000 read from file descriptor 3
+[14933.931112] User 1000 read from file descriptor 3
+[14933.931124] User 1000 is closing file: 3
+[14933.931188] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14933.931212] User 1000 is closing file: 3
+[14933.931247] User 1000 is opening file: /etc/localtime
+[14933.931262] User 1000 read from file descriptor 3
+[14933.931279] User 1000 read from file descriptor 3
+[14933.931287] User 1000 is closing file: 3
+[14933.931350] User 1000 is opening file: /dev/tty
+[14933.931361] User 1000 is closing file: 3
+[14933.931401] User 1000 is closing file: 3
+[14933.931413] User 1000 is closing file: 3
+[14933.931423] User 1000 is opening file: /etc/nsswitch.conf
+[14933.931442] User 1000 read from file descriptor 3
+[14933.931471] User 1000 read from file descriptor 3
+[14933.931474] User 1000 is closing file: 3
+[14933.931556] User 1000 is opening file: /etc/ld.so.cache
+[14933.931615] User 1000 is closing file: 3
+[14933.931645] User 1000 is opening file: /lib/i386-linux-gnu/libnss_compat.so.2
+[14933.931654] User 1000 read from file descriptor 3
+[14933.931689] User 1000 is closing file: 3
+[14933.931702] User 1000 is opening file: /lib/i386-linux-gnu/libnsl.so.1
+[14933.931710] User 1000 read from file descriptor 3
+[14933.931742] User 1000 is closing file: 3
+[14933.931797] User 1000 is opening file: /etc/ld.so.cache
+[14933.931804] User 1000 is closing file: 3
+[14933.931824] User 1000 is opening file: /lib/i386-linux-gnu/libnss_nis.so.2
+[14933.931831] User 1000 read from file descriptor 3
+[14933.931857] User 1000 is closing file: 3
+[14933.931868] User 1000 is opening file: /lib/i386-linux-gnu/libnss_files.so.2
+[14933.931874] User 1000 read from file descriptor 3
+[14933.931896] User 1000 is closing file: 3
+[14933.931930] User 1000 is opening file: /etc/passwd
+[14933.931967] User 1000 is closing file: 3
+[14933.932003] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14933.932138] User 1000 read from file descriptor 3
+[14933.932143] User 1000 is closing file: 3
+[14933.932182] User 1000 is opening file: /proc/26757/stat
+[14933.932214] User 1000 read from file descriptor 3
+[14933.932233] User 1000 is closing file: 3
+[14933.932332] User 1000 is closing file: 3
+[14933.932387] User 1000 is opening file: /usr/lib/sudo/sudoers.so
+[14933.932396] User 1000 read from file descriptor 3
+[14933.932434] User 1000 is closing file: 3
+[14933.932447] User 1000 is opening file: /etc/ld.so.cache
+[14933.932457] User 1000 is closing file: 3
+[14933.932487] User 1000 is opening file: /lib/i386-linux-gnu/libpam.so.0
+[14933.932497] User 1000 read from file descriptor 3
+[14933.932525] User 1000 is closing file: 3
+[14933.932543] User 1000 is opening file: /lib/i386-linux-gnu/libaudit.so.1
+[14933.932549] User 1000 read from file descriptor 3
+[14933.932575] User 1000 is closing file: 3
+[14933.932672] User 1000 is opening file: /etc/passwd
+[14933.932687] User 1000 is opening file: /etc/default/nss
+[14933.932698] User 1000 read from file descriptor 4
+[14933.932766] User 1000 read from file descriptor 4
+[14933.932771] User 1000 is closing file: 4
+[14933.932793] User 1000 is opening file: /etc/group
+[14933.932836] User 1000 is opening file: /usr/share/locale/locale.alias
+[14933.932847] User 1000 read from file descriptor 5
+[14933.932925] User 1000 read from file descriptor 5
+[14933.932929] User 1000 is closing file: 5
+[14933.932989] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14933.932994] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14933.932997] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/sudoers.mo
+[14933.933001] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14933.933005] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/sudoers.mo
+[14933.933008] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/sudoers.mo
+[14933.933013] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/sudoers.mo
+[14933.933017] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/sudoers.mo
+[14933.933020] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/sudoers.mo
+[14933.933025] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/sudoers.mo
+[14933.933028] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/sudoers.mo
+[14933.933032] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/sudoers.mo
+[14933.933099] User 1000 is opening file: /etc/passwd
+[14933.933125] User 1000 is closing file: 5
+[14933.933153] User 1000 is closing file: 5
+[14933.933162] User 1000 is closing file: 5
+[14933.933203] User 1000 is opening file: /etc/group
+[14933.933230] User 1000 is closing file: 5
+[14933.933240] User 1000 is opening file: /etc/group
+[14933.933251] User 1000 is closing file: 5
+[14933.933256] User 1000 is opening file: /etc/group
+[14933.933268] User 1000 is closing file: 5
+[14933.933273] User 1000 is opening file: /etc/group
+[14933.933285] User 1000 is closing file: 5
+[14933.933290] User 1000 is opening file: /etc/group
+[14933.933302] User 1000 is closing file: 5
+[14933.933306] User 1000 is opening file: /etc/group
+[14933.933320] User 1000 is closing file: 5
+[14933.933328] User 1000 is opening file: /etc/group
+[14933.933344] User 1000 is closing file: 5
+[14933.933348] User 1000 is opening file: /etc/group
+[14933.933366] User 1000 is closing file: 5
+[14933.933370] User 1000 is opening file: /etc/group
+[14933.933388] User 1000 is closing file: 5
+[14933.933403] User 1000 is opening file: /etc/nsswitch.conf
+[14933.933412] User 1000 read from file descriptor 5
+[14933.933436] User 1000 read from file descriptor 5
+[14933.933440] User 1000 is closing file: 5
+[14933.933750] User 1000 is opening file: /proc/sys/kernel/ngroups_max
+[14933.933758] User 1000 read from file descriptor 8
+[14933.933761] User 1000 is closing file: 8
+[14933.933782] User 1000 is opening file: /etc/group
+[14933.933809] User 1000 is closing file: 8
+[14933.933818] User 1000 is opening file: /etc/group
+[14933.933828] User 1000 is closing file: 8
+[14933.933910] User 1000 is opening file: /etc/pam.d/sudo
+[14933.933920] User 1000 read from file descriptor 8
+[14933.933941] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_env.so
+[14933.933947] User 1000 read from file descriptor 9
+[14933.933968] User 1000 is closing file: 9
+[14933.934005] User 1000 is opening file: /etc/pam.d/common-auth
+[14933.934013] User 1000 read from file descriptor 9
+[14933.934029] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_unix.so
+[14933.934036] User 1000 read from file descriptor 10
+[14933.934064] User 1000 is closing file: 10
+[14933.934072] User 1000 is opening file: /etc/ld.so.cache
+[14933.934078] User 1000 is closing file: 10
+[14933.934095] User 1000 is opening file: /lib/i386-linux-gnu/libcrypt.so.1
+[14933.934101] User 1000 read from file descriptor 10
+[14933.934125] User 1000 is closing file: 10
+[14933.934204] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_deny.so
+[14933.934210] User 1000 read from file descriptor 10
+[14933.934229] User 1000 is closing file: 10
+[14933.934246] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_permit.so
+[14933.934251] User 1000 read from file descriptor 10
+[14933.934271] User 1000 is closing file: 10
+[14933.934294] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_cap.so
+[14933.934299] User 1000 read from file descriptor 10
+[14933.934319] User 1000 is closing file: 10
+[14933.934325] User 1000 is opening file: /etc/ld.so.cache
+[14933.934331] User 1000 is closing file: 10
+[14933.934348] User 1000 is opening file: /lib/i386-linux-gnu/libcap.so.2
+[14933.934354] User 1000 read from file descriptor 10
+[14933.934374] User 1000 is closing file: 10
+[14933.934437] User 1000 read from file descriptor 9
+[14933.934441] User 1000 is closing file: 9
+[14933.934452] User 1000 is opening file: /etc/pam.d/common-account
+[14933.934459] User 1000 read from file descriptor 9
+[14933.934498] User 1000 read from file descriptor 9
+[14933.934502] User 1000 is closing file: 9
+[14933.934511] User 1000 is opening file: /etc/pam.d/common-session-noninteractive
+[14933.934518] User 1000 read from file descriptor 9
+[14933.934541] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_umask.so
+[14933.934546] User 1000 read from file descriptor 10
+[14933.934566] User 1000 is closing file: 10
+[14933.934617] User 1000 read from file descriptor 9
+[14933.934620] User 1000 is closing file: 9
+[14933.934632] User 1000 read from file descriptor 8
+[14933.934635] User 1000 is closing file: 8
+[14933.934642] User 1000 is opening file: /etc/pam.d/other
+[14933.934650] User 1000 read from file descriptor 8
+[14933.934661] User 1000 is opening file: /etc/pam.d/common-auth
+[14933.934668] User 1000 read from file descriptor 9
+[14933.934708] User 1000 read from file descriptor 9
+[14933.934711] User 1000 is closing file: 9
+[14933.934720] User 1000 is opening file: /etc/pam.d/common-account
+[14933.934726] User 1000 read from file descriptor 9
+[14933.934763] User 1000 read from file descriptor 9
+[14933.934766] User 1000 is closing file: 9
+[14933.934775] User 1000 is opening file: /etc/pam.d/common-password
+[14933.934781] User 1000 read from file descriptor 9
+[14933.934800] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_gnome_keyring.so
+[14933.934806] User 1000 read from file descriptor 10
+[14933.934826] User 1000 is closing file: 10
+[14933.934892] User 1000 read from file descriptor 9
+[14933.934895] User 1000 is closing file: 9
+[14933.934905] User 1000 is opening file: /etc/pam.d/common-session
+[14933.934912] User 1000 read from file descriptor 9
+[14933.934939] User 1000 is opening file: /lib/i386-linux-gnu/security/pam_systemd.so
+[14933.934944] User 1000 read from file descriptor 10
+[14933.934964] User 1000 is closing file: 10
+[14933.934973] User 1000 is opening file: /etc/ld.so.cache
+[14933.934978] User 1000 is closing file: 10
+[14933.934995] User 1000 is opening file: /lib/i386-linux-gnu/libcgmanager.so.0
+[14933.935001] User 1000 read from file descriptor 10
+[14933.935022] User 1000 is closing file: 10
+[14933.935040] User 1000 is opening file: /lib/i386-linux-gnu/libnih.so.1
+[14933.935045] User 1000 read from file descriptor 10
+[14933.935066] User 1000 is closing file: 10
+[14933.935076] User 1000 is opening file: /lib/i386-linux-gnu/libnih-dbus.so.1
+[14933.935081] User 1000 read from file descriptor 10
+[14933.935101] User 1000 is closing file: 10
+[14933.935111] User 1000 is opening file: /lib/i386-linux-gnu/libdbus-1.so.3
+[14933.935116] User 1000 read from file descriptor 10
+[14933.935136] User 1000 is closing file: 10
+[14933.935147] User 1000 is opening file: /lib/i386-linux-gnu/libpam_misc.so.0
+[14933.935152] User 1000 read from file descriptor 10
+[14933.935174] User 1000 is closing file: 10
+[14933.935186] User 1000 is opening file: /lib/i386-linux-gnu/librt.so.1
+[14933.935191] User 1000 read from file descriptor 10
+[14933.935213] User 1000 is closing file: 10
+[14933.935229] User 1000 is opening file: /lib/i386-linux-gnu/libpthread.so.0
+[14933.935234] User 1000 read from file descriptor 10
+[14933.935259] User 1000 is closing file: 10
+[14933.935591] User 1000 read from file descriptor 9
+[14933.935597] User 1000 is closing file: 9
+[14933.935615] User 1000 read from file descriptor 8
+[14933.935618] User 1000 is closing file: 8
+[14933.935642] User 1000 is opening file: /var/lib/sudo/harry/1
+[14933.935647] User 1000 read from file descriptor 8
+[14933.935663] User 1000 is closing file: 8
+[14933.935669] User 1000 is opening file: /proc/stat
+[14933.935681] User 1000 read from file descriptor 8
+[14933.935756] User 1000 read from file descriptor 8
+[14933.935779] User 1000 read from file descriptor 8
+[14933.935782] User 1000 is closing file: 8
+[14933.935791] User 1000 is opening file: /var/lib/sudo/harry/1
+[14933.935806] User 1000 is closing file: 8
+[14933.935896] User 1000 is closing file: 5
+[14933.935914] User 1000 is closing file: 3
+[14933.935920] User 1000 is closing file: 4
+[14933.935932] User 1000 is opening file: /etc/passwd
+[14933.935939] User 1000 is opening file: /etc/group
+[14933.935949] User 1000 is opening file: /etc/passwd
+[14933.935964] User 1000 is closing file: 5
+[14933.935969] User 1000 is closing file: 3
+[14933.935973] User 1000 is closing file: 4
+[14933.936002] User 1000 is opening file: /etc/passwd
+[14933.936002] User 1000 is closing file: 3
+[14933.941412] User 1000 read from file descriptor 11
+[14933.950560] User 1000 read from file descriptor 11
+[14934.570689] User 1000 read from file descriptor 11
+[14934.618908] User 1000 read from file descriptor 11
+[14934.944140] User 1000 read from file descriptor 11
+[14934.966016] User 1000 read from file descriptor 11
+[14935.126964] User 1000 read from file descriptor 11
+[14935.129759] User 1000 read from file descriptor 11
+[14935.325657] User 1000 read from file descriptor 11
+[14935.349583] User 1000 read from file descriptor 11
+[14935.350450] User 1000 read from file descriptor 11
+[14935.351329] User 1000 read from file descriptor 11
+[14935.355232] User 1000 read from file descriptor 11
+[14935.363228] User 1000 read from file descriptor 11
+[14935.406239] User 1000 read from file descriptor 11
+[14935.455268] User 1000 read from file descriptor 11
+[14935.457161] User 1000 read from file descriptor 0
+[14935.457227] User 1000 read from file descriptor 11
+[14938.201402] User 1000 read from file descriptor 3
+[14938.201609] User 1000 read from file descriptor 0
+[14938.201666] User 1000 read from file descriptor 11
+[14938.289448] User 1000 read from file descriptor 3
+[14938.289656] User 1000 read from file descriptor 0
+[14938.289712] User 1000 read from file descriptor 11
+[14938.512900] User 1000 read from file descriptor 3
+[14938.513110] User 1000 read from file descriptor 0
+[14938.513167] User 1000 read from file descriptor 11
+[14938.721356] User 1000 read from file descriptor 3
+[14938.721565] User 1000 read from file descriptor 0
+[14938.721623] User 1000 read from file descriptor 11
+[14938.880908] User 1000 read from file descriptor 3
+[14938.881110] User 1000 read from file descriptor 0
+[14938.881163] User 1000 read from file descriptor 11
+[14939.064778] User 1000 read from file descriptor 3
+[14939.065012] User 1000 read from file descriptor 11
+[14939.065390] User 1000 is closing file: 4
+[14939.065411] User 1000 is closing file: 3
+[14939.065433] User 1000 read from file descriptor 3
+[14939.065473] User 1000 is closing file: 4
+[14939.065536] User 1000 is closing file: 3
+[14939.066121] User 1000 is opening file: /etc/ld.so.cache
+[14939.066134] User 1000 is closing file: 3
+[14939.066159] User 1000 is opening file: /lib/i386-linux-gnu/libtinfo.so.5
+[14939.066166] User 1000 read from file descriptor 3
+[14939.066197] User 1000 is closing file: 3
+[14939.066215] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14939.066221] User 1000 read from file descriptor 3
+[14939.066253] User 1000 is closing file: 3
+[14939.066901] User 1000 is opening file: /lib/terminfo/x/xterm-256color
+[14939.066926] User 1000 read from file descriptor 3
+[14939.066936] User 1000 read from file descriptor 3
+[14939.066974] User 1000 is closing file: 3
+[14939.067168] User 1000 read from file descriptor 11
+[14939.067778] User 1000 read from file descriptor 0
+[14939.067830] User 1000 read from file descriptor 11
+[14940.009454] User 1000 read from file descriptor 3
+[14940.009804] User 1000 read from file descriptor 0
+[14940.009881] User 1000 read from file descriptor 11
+[14940.192509] User 1000 read from file descriptor 3
+[14940.192675] User 1000 read from file descriptor 0
+[14940.192710] User 1000 read from file descriptor 11
+[14940.393243] User 1000 read from file descriptor 3
+[14940.406077] User 1000 is closing file: 3
+[14940.406183] User 1000 read from file descriptor 0
+[14940.406202] User 1000 read from file descriptor 11
+[14940.937944] User 1000 read from file descriptor 3
+[14940.938244] User 1000 read from file descriptor 0
+[14940.938333] User 1000 read from file descriptor 11
+[14941.833357] User 1000 read from file descriptor 3
+[14941.833579] User 1000 read from file descriptor 0
+[14941.833636] User 1000 read from file descriptor 11
+[14942.008907] User 1000 read from file descriptor 3
+[14942.009124] User 1000 read from file descriptor 0
+[14942.009181] User 1000 read from file descriptor 11
+[14942.177093] User 1000 read from file descriptor 3
+[14942.177304] User 1000 read from file descriptor 0
+[14942.177361] User 1000 read from file descriptor 11
+[14942.337367] User 1000 read from file descriptor 3
+[14942.337559] User 1000 read from file descriptor 0
+[14942.337605] User 1000 read from file descriptor 11
+[14943.201412] User 1000 read from file descriptor 3
+[14943.201707] User 1000 read from file descriptor 0
+[14943.201889] User 1000 read from file descriptor 11
+[14943.408874] User 1000 read from file descriptor 3
+[14943.409086] User 1000 read from file descriptor 0
+[14943.409144] User 1000 read from file descriptor 11
+[14943.961388] User 1000 read from file descriptor 3
+[14943.961597] User 1000 read from file descriptor 0
+[14943.961655] User 1000 read from file descriptor 11
+[14944.601512] User 1000 read from file descriptor 3
+[14944.601731] User 1000 read from file descriptor 0
+[14944.601861] User 1000 read from file descriptor 11
+[14944.785352] User 1000 read from file descriptor 3
+[14944.785572] User 1000 read from file descriptor 0
+[14944.785630] User 1000 read from file descriptor 11
+[14944.969270] User 1000 read from file descriptor 3
+[14944.969472] User 1000 read from file descriptor 0
+[14944.969677] User 1000 read from file descriptor 11
+[14959.137789] User 1000 read from file descriptor 3
+[14959.137981] User 1000 read from file descriptor 0
+[14959.138043] User 1000 read from file descriptor 11
+[14959.337409] User 1000 read from file descriptor 3
+[14959.337631] User 1000 read from file descriptor 0
+[14959.337689] User 1000 read from file descriptor 11
+[14959.937282] User 1000 read from file descriptor 3
+[14959.937492] User 1000 read from file descriptor 0
+[14959.937549] User 1000 read from file descriptor 11
+[14960.017451] User 1000 read from file descriptor 3
+[14960.017658] User 1000 read from file descriptor 0
+[14960.017715] User 1000 read from file descriptor 11
+[14960.200789] User 1000 read from file descriptor 3
+[14960.200965] User 1000 read from file descriptor 0
+[14960.200999] User 1000 read from file descriptor 11
+[14960.273224] User 1000 read from file descriptor 3
+[14960.273418] User 1000 read from file descriptor 0
+[14960.273459] User 1000 read from file descriptor 11
+[14961.105311] User 1000 read from file descriptor 3
+[14961.105526] User 1000 read from file descriptor 0
+[14961.105582] User 1000 read from file descriptor 11
+[14961.355390] User 1000 read from file descriptor 3
+[14961.355602] User 1000 read from file descriptor 0
+[14961.355668] User 1000 read from file descriptor 11
+[14961.389398] User 1000 read from file descriptor 3
+[14961.389817] User 1000 read from file descriptor 0
+[14961.389873] User 1000 read from file descriptor 11
+[14961.423126] User 1000 read from file descriptor 3
+[14961.423342] User 1000 read from file descriptor 0
+[14961.423399] User 1000 read from file descriptor 11
+[14961.457020] User 1000 read from file descriptor 3
+[14961.457240] User 1000 read from file descriptor 0
+[14961.457296] User 1000 read from file descriptor 11
+[14961.490908] User 1000 read from file descriptor 3
+[14961.491116] User 1000 read from file descriptor 0
+[14961.491174] User 1000 read from file descriptor 11
+[14961.525754] User 1000 read from file descriptor 3
+[14961.525939] User 1000 read from file descriptor 0
+[14961.525983] User 1000 read from file descriptor 11
+[14961.559478] User 1000 read from file descriptor 3
+[14961.559766] User 1000 read from file descriptor 0
+[14961.559811] User 1000 read from file descriptor 11
+[14961.593654] User 1000 read from file descriptor 3
+[14961.593847] User 1000 read from file descriptor 0
+[14961.593892] User 1000 read from file descriptor 11
+[14961.627927] User 1000 read from file descriptor 3
+[14961.628117] User 1000 read from file descriptor 0
+[14961.628164] User 1000 read from file descriptor 11
+[14961.662262] User 1000 read from file descriptor 3
+[14961.662443] User 1000 read from file descriptor 0
+[14961.662489] User 1000 read from file descriptor 11
+[14966.065538] User 1000 read from file descriptor 3
+[14966.065739] User 1000 read from file descriptor 0
+[14966.065796] User 1000 read from file descriptor 11
+[14966.121536] User 1000 read from file descriptor 3
+[14966.121739] User 1000 read from file descriptor 0
+[14966.121791] User 1000 read from file descriptor 11
+[14966.257329] User 1000 read from file descriptor 3
+[14966.257531] User 1000 read from file descriptor 0
+[14966.257588] User 1000 read from file descriptor 11
+[14966.473485] User 1000 read from file descriptor 3
+[14966.473690] User 1000 read from file descriptor 0
+[14966.473746] User 1000 read from file descriptor 11
+[14966.697295] User 1000 read from file descriptor 3
+[14966.697497] User 1000 read from file descriptor 0
+[14966.697553] User 1000 read from file descriptor 11
+[14971.873324] User 1000 read from file descriptor 3
+[14971.873626] User 1000 read from file descriptor 0
+[14971.873684] User 1000 read from file descriptor 11
+[14971.993367] User 1000 read from file descriptor 3
+[14971.993573] User 1000 read from file descriptor 0
+[14971.993630] User 1000 read from file descriptor 11
+[14972.217490] User 1000 read from file descriptor 3
+[14972.217693] User 1000 read from file descriptor 0
+[14972.217745] User 1000 read from file descriptor 11
+[14972.553018] User 1000 read from file descriptor 3
+[14972.553221] User 1000 read from file descriptor 0
+[14972.553278] User 1000 read from file descriptor 11
+[14974.377387] User 1000 read from file descriptor 3
+[14974.377605] User 1000 read from file descriptor 0
+[14974.377661] User 1000 read from file descriptor 11
+[14974.593129] User 1000 read from file descriptor 3
+[14974.593340] User 1000 read from file descriptor 0
+[14974.593397] User 1000 read from file descriptor 11
+[14975.338460] User 1000 read from file descriptor 3
+[14975.338656] User 1000 read from file descriptor 0
+[14975.338809] User 1000 read from file descriptor 11
+[14975.522117] User 1000 read from file descriptor 3
+[14975.522339] User 1000 read from file descriptor 0
+[14975.522381] User 1000 read from file descriptor 11
+[14980.065355] User 1000 read from file descriptor 3
+[14980.065561] User 1000 read from file descriptor 0
+[14980.065626] User 1000 read from file descriptor 11
+[14980.232710] User 1000 read from file descriptor 3
+[14980.232894] User 1000 read from file descriptor 0
+[14980.232931] User 1000 read from file descriptor 11
+[14980.321004] User 1000 read from file descriptor 3
+[14980.321170] User 1000 read from file descriptor 0
+[14980.321204] User 1000 read from file descriptor 11
+[14981.129276] User 1000 read from file descriptor 3
+[14981.129486] User 1000 read from file descriptor 0
+[14981.129541] User 1000 read from file descriptor 11
+[14981.328877] User 1000 read from file descriptor 3
+[14981.329095] User 1000 read from file descriptor 0
+[14981.329151] User 1000 read from file descriptor 11
+[14982.593374] User 1000 read from file descriptor 3
+[14982.593590] User 1000 read from file descriptor 0
+[14982.593646] User 1000 read from file descriptor 11
+[14984.097234] User 1000 read from file descriptor 3
+[14984.097443] User 1000 read from file descriptor 0
+[14984.097500] User 1000 read from file descriptor 11
+[14984.633556] User 1000 read from file descriptor 3
+[14984.633761] User 1000 read from file descriptor 0
+[14984.633817] User 1000 read from file descriptor 11
+[14984.888815] User 1000 read from file descriptor 3
+[14984.889027] User 1000 read from file descriptor 0
+[14984.889084] User 1000 read from file descriptor 11
+[14985.065359] User 1000 read from file descriptor 3
+[14985.065546] User 1000 read from file descriptor 0
+[14985.065600] User 1000 read from file descriptor 11
+[14986.065411] User 1000 read from file descriptor 3
+[14986.065615] User 1000 read from file descriptor 0
+[14986.065672] User 1000 read from file descriptor 11
+[14986.353442] User 1000 read from file descriptor 3
+[14986.353647] User 1000 read from file descriptor 0
+[14986.353703] User 1000 read from file descriptor 11
+[14986.921503] User 1000 read from file descriptor 3
+[14986.921708] User 1000 read from file descriptor 0
+[14986.921765] User 1000 read from file descriptor 11
+[14986.961173] User 1000 read from file descriptor 3
+[14986.961377] User 1000 read from file descriptor 0
+[14986.961434] User 1000 read from file descriptor 11
+[14987.136884] User 1000 read from file descriptor 3
+[14987.137091] User 1000 read from file descriptor 0
+[14987.137148] User 1000 read from file descriptor 11
+[14989.257641] User 1000 read from file descriptor 3
+[14989.257841] User 1000 read from file descriptor 11
+[14989.258754] User 1000 is closing file: 4
+[14989.258765] User 1000 read from file descriptor 3
+[14989.258779] User 1000 is closing file: 3
+[14989.258793] User 1000 is closing file: 4
+[14989.258862] User 1000 is closing file: 3
+[14989.259584] User 1000 is opening file: /etc/ld.so.cache
+[14989.259661] User 1000 is closing file: 3
+[14989.259695] User 1000 is opening file: /lib/i386-linux-gnu/libncursesw.so.5
+[14989.259706] User 1000 read from file descriptor 3
+[14989.259744] User 1000 is closing file: 3
+[14989.259766] User 1000 is opening file: /lib/i386-linux-gnu/libtinfo.so.5
+[14989.259776] User 1000 read from file descriptor 3
+[14989.259806] User 1000 is closing file: 3
+[14989.259827] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[14989.259837] User 1000 read from file descriptor 3
+[14989.259881] User 1000 is closing file: 3
+[14989.260162] User 1000 is opening file: /lib/i386-linux-gnu/libdl.so.2
+[14989.260181] User 1000 read from file descriptor 3
+[14989.260226] User 1000 is closing file: 3
+[14989.260682] User 1000 is opening file: /usr/lib/locale/locale-archive
+[14989.260711] User 1000 is closing file: 3
+[14989.260780] User 1000 is opening file: /usr/share/locale/locale.alias
+[14989.260802] User 1000 read from file descriptor 3
+[14989.260878] User 1000 read from file descriptor 3
+[14989.260887] User 1000 is closing file: 3
+[14989.260944] User 1000 is opening file: /usr/share/locale/en_US.UTF-8/LC_MESSAGES/nano.mo
+[14989.260949] User 1000 is opening file: /usr/share/locale/en_US.utf8/LC_MESSAGES/nano.mo
+[14989.260953] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/nano.mo
+[14989.260957] User 1000 is opening file: /usr/share/locale/en.UTF-8/LC_MESSAGES/nano.mo
+[14989.260960] User 1000 is opening file: /usr/share/locale/en.utf8/LC_MESSAGES/nano.mo
+[14989.260963] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/nano.mo
+[14989.260967] User 1000 is opening file: /usr/share/locale-langpack/en_US.UTF-8/LC_MESSAGES/nano.mo
+[14989.260971] User 1000 is opening file: /usr/share/locale-langpack/en_US.utf8/LC_MESSAGES/nano.mo
+[14989.260974] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/nano.mo
+[14989.260978] User 1000 is opening file: /usr/share/locale-langpack/en.UTF-8/LC_MESSAGES/nano.mo
+[14989.260981] User 1000 is opening file: /usr/share/locale-langpack/en.utf8/LC_MESSAGES/nano.mo
+[14989.260985] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/nano.mo
+[14989.261064] User 1000 is opening file: /etc/nanorc
+[14989.261076] User 1000 read from file descriptor 3
+[14989.261174] User 1000 read from file descriptor 3
+[14989.261193] User 1000 is opening file: /usr/share/nano/nanorc.nanorc
+[14989.261202] User 1000 read from file descriptor 4
+[14989.261232] User 1000 is opening file: /usr/lib/i386-linux-gnu/gconv/gconv-modules.cache
+[14989.261240] User 1000 is closing file: 5
+[14989.261972] User 1000 read from file descriptor 4
+[14989.261981] User 1000 is closing file: 4
+[14989.262005] User 1000 is opening file: /usr/share/nano/c.nanorc
+[14989.262017] User 1000 read from file descriptor 4
+[14989.262662] User 1000 read from file descriptor 4
+[14989.262667] User 1000 is closing file: 4
+[14989.262683] User 1000 is opening file: /usr/share/nano/css.nanorc
+[14989.262693] User 1000 read from file descriptor 4
+[14989.262781] User 1000 read from file descriptor 4
+[14989.262784] User 1000 is closing file: 4
+[14989.262797] User 1000 is opening file: /usr/share/nano/debian.nanorc
+[14989.262804] User 1000 read from file descriptor 4
+[14989.262977] User 1000 read from file descriptor 4
+[14989.262980] User 1000 is closing file: 4
+[14989.262993] User 1000 is opening file: /usr/share/nano/gentoo.nanorc
+[14989.263001] User 1000 read from file descriptor 4
+[14989.264008] User 1000 read from file descriptor 4
+[14989.264090] User 1000 is closing file: 4
+[14989.264113] User 1000 is opening file: /usr/share/nano/html.nanorc
+[14989.264126] User 1000 read from file descriptor 4
+[14989.264160] User 1000 read from file descriptor 4
+[14989.264164] User 1000 is closing file: 4
+[14989.264177] User 1000 is opening file: /usr/share/nano/php.nanorc
+[14989.264185] User 1000 read from file descriptor 4
+[14989.264522] User 1000 read from file descriptor 4
+[14989.264529] User 1000 is closing file: 4
+[14989.264545] User 1000 is opening file: /usr/share/nano/tcl.nanorc
+[14989.264555] User 1000 read from file descriptor 4
+[14989.266300] User 1000 read from file descriptor 4
+[14989.266307] User 1000 is closing file: 4
+[14989.266324] User 1000 is opening file: /usr/share/nano/tex.nanorc
+[14989.266335] User 1000 read from file descriptor 4
+[14989.266406] User 1000 read from file descriptor 4
+[14989.266409] User 1000 is closing file: 4
+[14989.266422] User 1000 is opening file: /usr/share/nano/mutt.nanorc
+[14989.266430] User 1000 read from file descriptor 4
+[14989.266448] User 1000 read from file descriptor 4
+[14989.266451] User 1000 is closing file: 4
+[14989.266463] User 1000 is opening file: /usr/share/nano/patch.nanorc
+[14989.266470] User 1000 read from file descriptor 4
+[14989.266530] User 1000 read from file descriptor 4
+[14989.266533] User 1000 is closing file: 4
+[14989.266544] User 1000 is opening file: /usr/share/nano/man.nanorc
+[14989.266551] User 1000 read from file descriptor 4
+[14989.266622] User 1000 read from file descriptor 4
+[14989.266625] User 1000 is closing file: 4
+[14989.266636] User 1000 is opening file: /usr/share/nano/groff.nanorc
+[14989.266643] User 1000 read from file descriptor 4
+[14989.266783] User 1000 read from file descriptor 4
+[14989.266787] User 1000 is closing file: 4
+[14989.266798] User 1000 is opening file: /usr/share/nano/perl.nanorc
+[14989.266805] User 1000 read from file descriptor 4
+[14989.267503] User 1000 read from file descriptor 4
+[14989.267508] User 1000 is closing file: 4
+[14989.267523] User 1000 is opening file: /usr/share/nano/python.nanorc
+[14989.267531] User 1000 read from file descriptor 4
+[14989.267735] User 1000 read from file descriptor 4
+[14989.267738] User 1000 is closing file: 4
+[14989.267751] User 1000 is opening file: /usr/share/nano/ruby.nanorc
+[14989.267759] User 1000 read from file descriptor 4
+[14989.268005] User 1000 read from file descriptor 4
+[14989.268079] User 1000 is closing file: 4
+[14989.268103] User 1000 is opening file: /usr/share/nano/java.nanorc
+[14989.268118] User 1000 read from file descriptor 4
+[14989.268507] User 1000 read from file descriptor 4
+[14989.268512] User 1000 is closing file: 4
+[14989.268601] User 1000 read from file descriptor 3
+[14989.268611] User 1000 is opening file: /usr/share/nano/awk.nanorc
+[14989.268621] User 1000 read from file descriptor 4
+[14989.269005] User 1000 read from file descriptor 4
+[14989.269005] User 1000 is closing file: 4
+[14989.269694] User 1000 is opening file: /usr/share/nano/asm.nanorc
+[14989.269704] User 1000 read from file descriptor 4
+[14989.270013] User 1000 read from file descriptor 4
+[14989.270018] User 1000 is closing file: 4
+[14989.270031] User 1000 is opening file: /usr/share/nano/sh.nanorc
+[14989.270039] User 1000 read from file descriptor 4
+[14989.270393] User 1000 read from file descriptor 4
+[14989.270398] User 1000 is closing file: 4
+[14989.270413] User 1000 is opening file: /usr/share/nano/pov.nanorc
+[14989.270422] User 1000 read from file descriptor 4
+[14989.270709] User 1000 read from file descriptor 4
+[14989.270719] User 1000 is closing file: 4
+[14989.270748] User 1000 is opening file: /usr/share/nano/xml.nanorc
+[14989.270763] User 1000 read from file descriptor 4
+[14989.270853] User 1000 read from file descriptor 4
+[14989.270858] User 1000 is closing file: 4
+[14989.270957] User 1000 read from file descriptor 3
+[14989.270961] User 1000 is closing file: 3
+[14989.271000] User 1000 is opening file: /home/harry/.nanorc
+[14989.271031] User 1000 is opening file: /home/harry/.nano_history
+[14989.271130] User 1000 is opening file: /lib/terminfo/x/xterm-256color
+[14989.271139] User 1000 read from file descriptor 3
+[14989.271146] User 1000 read from file descriptor 3
+[14989.271173] User 1000 is closing file: 3
+[14989.271580] User 1000 read from file descriptor 11
+[14989.271738] User 1000 read from file descriptor 11
+[14989.273233] User 1000 is opening file: /media/sf_project2/phase1/test2.txt
+[14989.273730] User 1000 read from file descriptor 3
+[14989.274111] User 1000 read from file descriptor 3, but that read contained malicious code.
+[14989.274181] User 1000 is closing file: 3
+[14989.274266] User 1000 is closing file: 3
+[14989.274637] User 1000 is opening file: /media/sf_project2/phase1/test2.txt
+[14989.274958] User 1000 is closing file: 3
+[14989.275041] User 1000 is closing file: 3
+[14989.276154] User 1000 read from file descriptor 0
+[14989.276378] User 1000 read from file descriptor 11
+[14990.697138] User 1000 read from file descriptor 3, but that read contained malicious code.
+[14990.697651] User 1000 read from file descriptor 11
+[14990.698401] User 1000 read from file descriptor 0
+[14990.698436] User 1000 read from file descriptor 11
+[14994.841561] User 1000 read from file descriptor 3
+[14994.841737] User 1000 read from file descriptor 0
+[14994.841829] User 1000 read from file descriptor 11
+[14995.170669] User 1000 read from file descriptor 3
+[14995.171296] User 1000 read from file descriptor 0
+[14995.171413] User 1000 read from file descriptor 11
+[14995.904838] User 1000 read from file descriptor 3
+[14995.905034] User 1000 read from file descriptor 0
+[14995.905126] User 1000 read from file descriptor 11
+[14996.473083] User 1000 read from file descriptor 3
+[14996.473266] User 1000 read from file descriptor 0
+[14996.473357] User 1000 read from file descriptor 11
+[14997.185476] User 1000 read from file descriptor 3
+[14997.185662] User 1000 read from file descriptor 0
+[14997.185753] User 1000 read from file descriptor 11
+[14997.848626] User 1000 read from file descriptor 3
+[14997.848809] User 1000 read from file descriptor 0
+[14997.848900] User 1000 read from file descriptor 11
+[14999.777431] User 1000 read from file descriptor 3
+[14999.777604] User 1000 read from file descriptor 0
+[14999.777695] User 1000 read from file descriptor 11
+[15001.096959] User 1000 read from file descriptor 3
+[15001.097137] User 1000 read from file descriptor 0
+[15001.097229] User 1000 read from file descriptor 11
+[15001.473387] User 1000 read from file descriptor 3
+[15001.473565] User 1000 read from file descriptor 0
+[15001.473656] User 1000 read from file descriptor 11
+[15001.897224] User 1000 read from file descriptor 3
+[15001.897404] User 1000 read from file descriptor 0
+[15001.897495] User 1000 read from file descriptor 11
+[15002.513096] User 1000 read from file descriptor 3
+[15002.513285] User 1000 read from file descriptor 0
+[15002.513376] User 1000 read from file descriptor 11
+[15003.025387] User 1000 read from file descriptor 3
+[15003.025571] User 1000 read from file descriptor 0
+[15003.025661] User 1000 read from file descriptor 11
+[15003.177438] User 1000 read from file descriptor 3
+[15003.177615] User 1000 read from file descriptor 0
+[15003.177707] User 1000 read from file descriptor 11
+[15003.393002] User 1000 read from file descriptor 3
+[15003.393160] User 1000 read from file descriptor 0
+[15003.393230] User 1000 read from file descriptor 11
+[15003.601152] User 1000 read from file descriptor 3
+[15003.601301] User 1000 read from file descriptor 0
+[15003.601366] User 1000 read from file descriptor 11
+[15004.041435] User 1000 read from file descriptor 3
+[15004.041602] User 1000 read from file descriptor 0
+[15004.041687] User 1000 read from file descriptor 11
+[15004.521141] User 1000 read from file descriptor 3
+[15004.521314] User 1000 read from file descriptor 0
+[15004.521400] User 1000 read from file descriptor 11
+[15004.761306] User 1000 read from file descriptor 3
+[15004.761621] User 1000 read from file descriptor 0
+[15004.761740] User 1000 read from file descriptor 11
+[15006.193679] User 1000 read from file descriptor 3
+[15006.193859] User 1000 read from file descriptor 0
+[15006.193958] User 1000 read from file descriptor 11
+[15006.328953] User 1000 read from file descriptor 3
+[15006.329128] User 1000 read from file descriptor 0
+[15006.329212] User 1000 read from file descriptor 11
+[15006.441422] User 1000 read from file descriptor 3
+[15006.441613] User 1000 read from file descriptor 0
+[15006.441702] User 1000 read from file descriptor 11
+[15006.777282] User 1000 read from file descriptor 3
+[15006.777467] User 1000 read from file descriptor 0
+[15006.777554] User 1000 read from file descriptor 11
+[15006.993409] User 1000 read from file descriptor 3
+[15006.993598] User 1000 read from file descriptor 0
+[15006.993704] User 1000 read from file descriptor 11
+[15007.074056] User 1000 read from file descriptor 3
+[15007.074246] User 1000 read from file descriptor 0
+[15007.074335] User 1000 read from file descriptor 11
+[15007.313438] User 1000 read from file descriptor 3
+[15007.313628] User 1000 read from file descriptor 0
+[15007.313715] User 1000 read from file descriptor 11
+[15007.961511] User 1000 read from file descriptor 3
+[15007.961701] User 1000 read from file descriptor 0
+[15007.961791] User 1000 read from file descriptor 11
+[15008.056887] User 1000 read from file descriptor 3
+[15008.057070] User 1000 read from file descriptor 0
+[15008.057158] User 1000 read from file descriptor 11
+[15008.192837] User 1000 read from file descriptor 3
+[15008.193023] User 1000 read from file descriptor 0
+[15008.193113] User 1000 read from file descriptor 11
+[15009.689461] User 1000 read from file descriptor 3
+[15009.690102] User 1000 is closing file: 3
+[15009.690110] User 1000 is closing file: 4
+[15009.690140] User 1000 is closing file: 4
+[15009.690152] User 1000 read from file descriptor 3
+[15009.690158] User 1000 is closing file: 3
+[15009.690218] User 1000 read from file descriptor 11
+[15009.690511] User 1000 is opening file: syslog.txt
+[15009.691013] User 1000 is closing file: 3
+[15009.691663] User 1000 is opening file: /etc/ld.so.cache
+[15009.691677] User 1000 is closing file: 3
+[15009.691700] User 1000 is opening file: /lib/i386-linux-gnu/libc.so.6
+[15009.691708] User 1000 read from file descriptor 3
+[15009.691747] User 1000 is closing file: 3
+[15009.692002] User 1000 is opening file: /usr/lib/locale/locale-archive
+[15009.692147] User 1000 is closing file: 3

@@ -1,0 +1,15 @@
+[    5.865613] init: plymouth-upstart-bridge main process ended, respawning
+[   58.302035] Interceptor: Found syscall table at address: 0xC166A140
+[   58.302040] Loaded interceptor!
+[   60.615363] Interceptor: Found syscall table at address: 0xC166A140
+[   60.615369] Loaded interceptor!
+[  106.057328] User [1000] has no permission to process[1503]
+[  117.989844] Successfully changed process[1546]'s loginuid to [1001]
+[  156.263929] Find loginuid 1001 for process [1546]
+[  157.574676] Find loginuid 1001 for process [1546]
+[  158.407259] Find loginuid 1001 for process [1546]
+[  159.069901] Find loginuid 1001 for process [1546]
+[  159.704920] Find loginuid 1001 for process [1546]
+[  160.301208] Find loginuid 1001 for process [1546]
+[  161.005745] Find loginuid 1001 for process [1546]
+[  164.063056] Find loginuid 1001 for process [1546]

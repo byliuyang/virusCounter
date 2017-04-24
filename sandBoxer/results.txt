@@ -1,0 +1,4 @@
+harry@harry-VirtualBox:/media/sf_project2/phase2$ ./shift2user -u 1001 -p 1546
+Process 1546 has been shifted to user 1001
+harry@harry-VirtualBox:/media/sf_project2/phase2$ ./getloginuid -p 1546
+Process 1546 has loginuid 1001
